@@ -1,0 +1,243 @@
+subreddit,permalink,score,num_comments,title,body_text,image_url
+crypto,https://old.reddit.com/r/crypto/comments/5cz1fz/wikileaks_latest_insurance_files_dont_match_hashes/,4327,1193,Wikileaks latest insurance files don't match hashes,"UPDATE: @Wikileaks has made a statement regarding the discrepancy.
+https://twitter.com/wikileaks/status/798997378552299521
+NOTE: When we release pre-commitment hashes they are for decrypted files (obviously). Mr. Assange appreciates the concern.
+The statement confirms that the pre-commits are in fact, for the latest insurance files. As the links above show, Wikileaks has historically used hashes for encrypted files (since 2010). Therefore, the intention of the pre-commitment hashes is not ""obvious"". Using a hash for a decrypted file could put readers in danger as it forces them to open a potentially malicious file in order to verify if its contents are real. Generating hashes from encrypted files is standard, practical and safe. I recommend waiting for a PGP signed message from Wikileaks before proceeding with further communication.
+The latest insurance files posted by Wikileaks do not match the pre-commitment hashes they tweeted in October.
+US Kerry [1]- 4bb96075acadc3d80b5ac872874c3037a386f4f595fe99e687439aabd0219809
+UK FCO [2]- f33a6de5c627e3270ed3e02f62cd0c857467a780cf6123d2172d80d02a072f74
+EC [3]- eae5c9b064ed649ba468f0800abf8b56ae5cfe355b93b1ce90a1b92a48a9ab72
+sha256sum 2016-11-07_WL-Insurance_US.aes256 ab786b76a195cacde2d94506ca512ee950340f1404244312778144f67d4c8002
+sha256sum 2016-11-07_WL-Insurance_UK.aes256 655821253135f8eabff54ec62c7f243a27d1d0b7037dc210f59267c43279a340
+sha256sum 2016-11-07_WL-Insurance_EC.aes256 b231ccef70338a857e48984f0fd73ea920eff70ab6b593548b0adcbd1423b995
+All previous insurance files match:
+wlinsurance-20130815-A.aes256 [5],[6]
+6688fffa9b39320e11b941f0004a3a76d49c7fb52434dab4d7d881dc2a2d7e02
+wlinsurance-20130815-B.aes256 [5], [7]
+3dcf2dda8fb24559935919fab9e5d7906c3b28476ffa0c5bb9c1d30fcb56e7a4
+wlinsurance-20130815-C.aes256 [5], [8]
+913a6ff8eca2b20d9d2aab594186346b6089c0fb9db12f64413643a8acadcfe3
+insurance.aes256 [9], [10]
+cce54d3a8af370213d23fcbfe8cddc8619a0734c
+Note: All previous hashes match the encrypted data. You can try it yourself.
+[1]
+https://twitter.com/wikileaks/status/787777344740163584
+[2]
+https://twitter.com/wikileaks/status/787781046519693316
+[3]
+https://twitter.com/wikileaks/status/787781519951720449
+[4]
+https://twitter.com/wikileaks/status/796085225394536448?lang=en
+[5]
+https://wiki.installgentoo.com/index.php/Wiki_Backups
+[6]
+https://file.wikileaks.org/torrent/wlinsurance-20130815-A.aes256.torrent
+[7]
+https://file.wikileaks.org/torrent/wlinsurance-20130815-B.aes256.torrent
+[8]
+https://file.wikileaks.org/torrent/wlinsurance-20130815-C.aes256.torrent
+[9]
+https://wikileaks.org/wiki/Afghan_War_Diary,_2004-2010
+[10]
+https://web.archive.org/web/20100901162556/https://leakmirror.wikileaks.org/file/straw-glass-and-bottle/insurance.aes256
+More info here:
+http://8ch.net/tech/res/679042.html
+Please avoid speculation and focus on provable and testable facts relating to cryptography.",
+crypto,https://old.reddit.com/r/crypto/comments/7jrba2/crypto_is_not_cryptocurrency/,609,205,Crypto is not cryptocurrency,,
+crypto,https://old.reddit.com/r/crypto/comments/5figex/doj_rule_41_passively_changes_this_thursday_dec/,317,86,"DoJ Rule 41 passively changes this Thursday, Dec 1st; Using tools like VPN or anonymizers like Tor could land you on a watch list for exploratory scanning by FBI","stay safe all
+citation:
+https://www.techdirt.com/articles/20161122/10381536112/bill-introduced-to-push-back-approval-dojs-proposed-rule-41-changes.shtml",
+crypto,https://old.reddit.com/r/crypto/comments/fj7lbh/a_sneaky_attempt_to_end_encryption_is_worming_its/,279,7,A sneaky attempt to end encryption is worming its way through Congress,,
+crypto,https://old.reddit.com/r/crypto/comments/8g87fc/the_billionaire_chief_executive_of_whatsapp_jan/,274,11,"The billionaire chief executive of WhatsApp, Jan Koum, is planning to leave the company after clashing with its parent, Facebook, over the popular messaging service’s strategy and Facebook’s attempts to use its personal data and weaken its encryption",,
+crypto,https://old.reddit.com/r/crypto/comments/26px1i/truecrypt_shutting_down_development_of_truecrypt/,260,131,"Truecrypt shutting down?! ""development of TrueCrypt was ended in 5/2014""",,
+crypto,https://old.reddit.com/r/crypto/comments/4bd752/french_police_report_on_paris_attacks_shows_no/,252,18,French Police Report On Paris Attacks Shows No Evidence Of Encryption... So NY Times Invents Evidence Itself,,
+crypto,https://old.reddit.com/r/crypto/comments/747x1k/the_white_house_and_equifax_agree_social_security/,250,67,"The White House and Equifax Agree: Social Security Numbers Should Go -- Officials are looking into “what would be a better system” that utilizes the latest technologies, including a “modern cryptographic identifier,” such as public and private keys.",,
+crypto,https://old.reddit.com/r/crypto/comments/2s76md/david_cameron_dear_leader_of_uk_to_ban_endtoend/,250,62,"David Cameron, Dear Leader of UK, to ban end-to-end crypto",,
+crypto,https://old.reddit.com/r/crypto/comments/5kqdko/nine_in_ten_agree_they_should_be_able_to_encrypt/,250,13,"Nine in ten agree they should be able to encrypt their messages and calls, so they can only be read by the recipient (90%)",,
+crypto,https://old.reddit.com/r/crypto/comments/4eteah/there_is_no_way_to_build_a_digital_lock_that_only/,249,63,"""There is no way to build a digital lock that only angels can open and demons cannot. Anyone saying otherwise is either ignorant of the mathematics or less of an angel than they appear.""","Hi everyone, I thought this quote summed up the recent CGP Grey video about encryption quite well, but I'm far from an expert and am curious to hear your opinion.
+This is obviously a simplification of a complex situation, but do you agree in principle? Is there further reading I can do on the topic if I want to get a better understanding?
+I really appreciate any thoughts.
+https://www.youtube.com/watch?v=VPBH1eW28mo",
+crypto,https://old.reddit.com/r/crypto/comments/coysfe/spotted_at_defcons_crypto_village/,245,23,Spotted at Defcon's Crypto Village,,
+crypto,https://old.reddit.com/r/crypto/comments/3ath3e/schneier_encryption_should_be_enabled_for/,241,24,"Schneier: Encryption should be enabled for everything by default, not a feature you turn on only if you're doing something you consider worth protecting. Every time you use encryption, you're protecting someone who needs to use it to stay alive.",,
+crypto,https://old.reddit.com/r/crypto/comments/6g2qs6/strong_crypto_is_not_the_problem_manchester_and/,236,40,Strong Crypto Is Not The Problem: Manchester And London Attackers Were Known To The Authorities,,
+crypto,https://old.reddit.com/r/crypto/comments/8wwt1d/every_cipher_has_its_use_case/,227,28,"""Every cipher has its use case""",,
+crypto,https://old.reddit.com/r/crypto/comments/exa2ce/lindsey_graham_is_quietly_preparing_a_mess_of_a/,228,13,Lindsey Graham Is Quietly Preparing a Mess of a Bill Trying to Destroy End-to-End Encryption,,
+crypto,https://old.reddit.com/r/crypto/comments/5kjoqz/encryption_is_a_human_rights_issue_your_privacy/,227,2,Encryption is a human rights issue: Your privacy and free speech depend on it,,
+crypto,https://old.reddit.com/r/crypto/comments/3uvbrn/sen_john_mccain_encrypted_communication_is/,221,68,"Sen. John McCain: Encrypted communication is ""unacceptable""",,
+crypto,https://old.reddit.com/r/crypto/comments/88qkwh/this_subreddit_is_now_about_crypts/,218,27,This subreddit is now about crypts,,
+crypto,https://old.reddit.com/r/crypto/comments/s9ws3f/the_uk_paid_724000_for_a_creepy_campaign_to/,211,2,"The U.K. Paid $724,000 For A Creepy Campaign To Convince People That Encryption is Bad. It Won’t Work.",,
+crypto,https://old.reddit.com/r/crypto/comments/3w2c9a/germany_we_support_more_and_better_encryption_we/,214,21,"Germany: “We support more and better encryption. We want to become the encryption site number 1 in the world. For this, encryption should become a standard for the masses in their private communication.”",,
+crypto,https://old.reddit.com/r/crypto/comments/1qfd6o/mathematicians_want_to_severe_ties_with_the_nsa/,212,28,"Mathematicians want to ""severe ties with the NSA"", and make working for the NSA and its ilk ""socially unacceptable""",,
+crypto,https://old.reddit.com/r/crypto/comments/467gw9/apple_customer_letter_response_to_the_fbi_request/,205,65,Apple Customer Letter – response to the FBI request to weaken iOS security after the San Bernardino case,,
+crypto,https://old.reddit.com/r/crypto/comments/kyxiz5/crypto_is_not_cryptocurrency/,207,30,Crypto is not cryptocurrency,,
+crypto,https://old.reddit.com/r/crypto/comments/orjy46/temporary_change_to_address_horrendous_levels_of/,205,576,Temporary change to address horrendous levels of spam,"Edit: Due to a recent even more extreme increase in spam volume, you can ONLY post or comment if you're an approved user.
+You can request to be approved via the reddit website.
+Edit: send a request via modmail here:
+https://www.reddit.com/message/compose/?to=/r/crypto
+You MUST provide a reason for why you want to join, since we also get spam bots sending such requests, and we can't tell you apart from them unless you write something in the request.
+We can also suggest
+/r/cryptography
+, as they are currently open (as they do not face the same volume of spam as we do).
+Due to reddit's incredibly meager moderation tools, this may have to stay this way until reddit finally improves the tools for dealing with bots.
+Due to a recent extreme spike in spam volume, this subreddit is becoming nearly impossible to moderate properly, as it is becoming hard to find the legitimate submissions and comments in the middle of the spam.
+Due to this I am temporarily making a change which will only allow users approved in advance by us mods to contribute.
+New and intermittent users who needs to get such an approval to be able to post can
+send a mod mail to us by sending a PM addressed at /r/crypto
+, and once you get confirmation you will be able to make your submissions.
+To get approved, AT LEAST ONE criteria below MUST be met by you / your account. You should;
+provide a reason for why you want to be approved in our subreddit, to be sent to us when you make the request. For example, if you want to post a question then share a summary of it.
+have recent ORIGINAL high quality contributions (posts or comments), showing your account is likely genuine (distinguishing it from a spam farm account)
+have a long lived account with good reputation (no requirement of frequent activity, just showing you will follow the rules)
+have a history of high quality contributions (again, showing you understand and will follow the rules) in this subreddit or in related subreddits / communities
+If you make a request from an account with a post history which is empty or which doesn't look original, and you also don't provide a reason for why you want to join, then we might reject your request. We moderators reserve the right to approve our deny requests as we see fit.
+We want to keep this subreddit open for beginners as well, as it has been up until now, so if you have a valid on-topic question or other content then don't hesitate to make the request and to inform us of why.
+Note:
+If you are already subscribed, or
+if you previously have received a personal message via this subreddit about being a trusted contributor, then you do not need to request approval to be able to comment.
+Posting does seem to require separate rights, your account has to be set as a trusted contributor by us mods.
+Note: if the button for making posts is visible as normal to you on the website, with no restrictions visible if you click it, then it means you already have posting rights.",
+crypto,https://old.reddit.com/r/crypto/comments/4hjcar/whatsapp_used_by_100_million_brazilians_was_shut/,203,46,"WhatsApp, Used by 100 Million Brazilians, Was Shut Down Nationwide Today by a Single Judge",,
+crypto,https://old.reddit.com/r/crypto/comments/3tbhit/senator_mccain_promises_to_introduce_legislation/,195,32,"Senator McCain Promises To Introduce Legislation To Backdoor Encryption, Make Everyone Less Safe",,
+crypto,https://old.reddit.com/r/crypto/comments/fhn826/earn_it_is_a_direct_attack_on_endtoend_encryption/,196,5,EARN IT is a direct attack on end-to-end encryption,,
+crypto,https://old.reddit.com/r/crypto/comments/su6dop/des_cracker_in_eff_lobby/,196,9,DES Cracker in EFF Lobby,,
+crypto,https://old.reddit.com/r/crypto/comments/6akezd/leaked_uk_plan_for_mass_spying_on_internet_and/,191,21,LEAKED: UK Plan for Mass Spying on Internet and Phones – and Encryption Backdoors,,
+crypto,https://old.reddit.com/r/crypto/comments/5nqf9w/whatsapp_backdoor_allows_snooping_on_encrypted/,190,17,"WhatsApp backdoor allows snooping on encrypted messages - ""WhatsApp has the ability to force the generation of new encryption keys for offline users, unbeknown to the sender and recipient of the messages ...""",,
+crypto,https://old.reddit.com/r/crypto/comments/4birql/before_we_even_know_the_details_politicians_rush/,193,33,"Before We Even Know The Details, Politicians Rush To Blame Encryption For Brussels Attacks",,
+crypto,https://old.reddit.com/r/crypto/comments/3tg7g8/critics_knock_fbi_and_cia_directors_for/,188,20,Critics Knock FBI and CIA Directors for Encryption-Busting ‘Agenda’ - “You had Comey and Brennan running around assuming that these guys had used encryption without any evidence that they had.”,,
+crypto,https://old.reddit.com/r/crypto/comments/4k3g5f/government_argues_that_indefinite_solitary/,187,53,Government Argues That Indefinite Solitary Confinement Perfectly Acceptable Punishment For Failing To Decrypt Devices | Techdirt,,
+crypto,https://old.reddit.com/r/crypto/comments/2uw2ev/the_worlds_email_encryption_software_relies_on/,186,15,"The World’s Email Encryption Software Relies on One Guy, Who is Going Broke",,
+crypto,https://old.reddit.com/r/crypto/comments/4t4rpf/security_wizard_bruce_schneier_joins_the_tor/,186,30,Security wizard Bruce Schneier joins the Tor Project,,
+crypto,https://old.reddit.com/r/crypto/comments/baihxd/german_enigma_from_ww2_i_never_thought_id_see_one/,187,22,German Enigma from WW2. I never thought I’d see one in person.,,
+crypto,https://old.reddit.com/r/crypto/comments/3tyq4a/sen_ron_wyden_security_experts_have_shown_again/,179,15,"Sen. Ron Wyden: Security experts have shown again and again that weakening encryption will make it easier for foreign hackers, criminals and spies to break into Americans’ bank accounts, health records and phones, without preventing terrorists from “going dark.”",,
+crypto,https://old.reddit.com/r/crypto/comments/44v0h5/senators_mccain_burr_and_feinstein_working_on/,182,82,"Senators McCain, Burr and Feinstein working on bill to ban end-to-end encryption",,
+crypto,https://old.reddit.com/r/crypto/comments/5i4q7r/openvpn_to_undergo_cryptographic_audit/,180,0,OpenVPN to Undergo Cryptographic Audit,,
+crypto,https://old.reddit.com/r/crypto/comments/6hltkk/european_parliament_wants_to_enforce_encryption/,175,24,European Parliament wants to enforce encryption on all electronic communications,,
+crypto,https://old.reddit.com/r/crypto/comments/5ppz76/already_on_probation_symantec_issues_more_illegit/,174,31,"Already on probation, Symantec issues more illegit HTTPS certificates - At least 108 Symantec certificates threatened the integrity of the encrypted Web.",,
+crypto,https://old.reddit.com/r/crypto/comments/3t0q3b/global_surveillence_dragnet_missed_nonencrypted/,178,33,Global surveillence dragnet missed NON-ENCRYPTED warnings of Paris attacks,,
+crypto,https://old.reddit.com/r/crypto/comments/82deh7/google_unveils_72qubit_quantum_computer_alarm/,174,84,Google unveils 72-qubit quantum computer - alarm bells ringing for anyone yet?,,
+crypto,https://old.reddit.com/r/crypto/comments/9gfu9l/gotta_appreciate_the_honesty/,175,20,Gotta appreciate the honesty.,,
+crypto,https://old.reddit.com/r/crypto/comments/3t5vk5/after_paris_attacks_the_cia_director_is_pushing/,172,27,"After Paris attacks, the CIA Director is pushing for encryption backdoors. Here's what he gets wrong.",,
+crypto,https://old.reddit.com/r/crypto/comments/7by2fr/doj_strong_encryption_that_we_dont_have_access_to/,177,58,DOJ: Strong encryption that we don’t have access to is “unreasonable”,,
+crypto,https://old.reddit.com/r/crypto/comments/23fz58/the_bsd_people_have_just_discovered_that_openssl/,172,15,"'The BSD people have just discovered that OpenSSL uses the RSA private key as last-ditch entropy for the RNG. Welcome to our hell, guys.' --Matt Green",,
+crypto,https://old.reddit.com/r/crypto/comments/1icv2sy/crypto_is_not_cryptocurrency_welcome_to_the/,173,7,"Crypto is not cryptocurrency - Welcome to the cryptography subreddit, for encryption, authentication protocols, and more",,
+crypto,https://old.reddit.com/r/crypto/comments/dakhy3/us_and_uk_agree_to_force_whatsapp_backdoor/,172,38,US and UK agree to force WhatsApp backdoor,,
+crypto,https://old.reddit.com/r/crypto/comments/3q7iib/only_three_days_left_and_less_than_5000/,170,17,"Only three days left and less than 5,000 signatures needed to tell President Obama to publicly affirm his support for strong encryption without backdoors or other vulnerabilities that would undermine the digital security of our devices, applications and the Internet",,
+crypto,https://old.reddit.com/r/crypto/comments/3vyws1/dutch_government_to_donate_half_a_million_euro_to/,165,3,Dutch government to donate half a million euro to encryption projects,,
+crypto,https://old.reddit.com/r/crypto/comments/f31yvo/man_who_refused_to_decrypt_hard_drives_is_free/,163,11,Man who refused to decrypt hard drives is free after four years in jail: Court holds that jail time to force decryption can't last more than 18 months.,,
+crypto,https://old.reddit.com/r/crypto/comments/4ea1j7/the_senate_crypto_bill_is_comically_bad_a_visual/,157,27,The Senate crypto bill is comically bad: A visual guide,,
+crypto,https://old.reddit.com/r/crypto/comments/34y22e/bruce_schneier_we_need_to_choose_between_security/,160,43,"Bruce Schneier: ""We need to choose between security and surveillance: we can only build technologies that are secure for all users, or are vulnerable to all attackers.""",,
+crypto,https://old.reddit.com/r/crypto/comments/4shils/mit_creates_new_way_to_run_anonymous_encrypted/,160,30,"MIT creates new way to run anonymous, encrypted network (TOR replacement) [X-post from r/sysadmin]",,
+crypto,https://old.reddit.com/r/crypto/comments/7xb1gl/someone_found_that_there_is_a_second_private_key/,157,40,Someone Found That There Is A Second Private Key In The RSA Algorithm.,"I don't know if I can post a pdf here, but this
+paper
+made by Ms. Ibrishimova shows that there is another second key that can decrypts a cypher text that was encrypted by the public key in the RSA algorithm.",
+crypto,https://old.reddit.com/r/crypto/comments/354qh3/tech_guys_shut_down_fbi_on_government_backdoors/,159,42,Tech guys shut down FBI on government backdoors in Congress via Steve Gibson [1:22 hour hearing] (worth the watch),,
+crypto,https://old.reddit.com/r/crypto/comments/3bqsea/david_cameron_is_going_to_try_and_ban_encryption/,159,59,David Cameron is going to try and ban encryption in Britain,,
+crypto,https://old.reddit.com/r/crypto/comments/fwqg59/cryptohack_a_fun_challenge_platform_for_learning/,156,33,CryptoHack - A fun challenge platform for learning cryptography,,
+crypto,https://old.reddit.com/r/crypto/comments/68ma78/every_intel_platform_with_amt_ism_and_sbt_from/,154,29,"Every Intel platform with AMT, ISM, and SBT from Nehalem in 2008 to Kaby Lake in 2017 has a remotely exploitable security hole in the ME (Management Engine)",,
+crypto,https://old.reddit.com/r/crypto/comments/5gn5x4/after_trumps_win_secure_messaging_app_signals/,154,38,"After Trump’s Win, Secure Messaging App Signal’s Downloads Increase 400%",,
+crypto,https://old.reddit.com/r/crypto/comments/kjohe3/i_am_filippo_valsorda_go_cryptography_lead_and/,151,123,"I am Filippo Valsorda, Go cryptography lead and tool author, Ask Me Anything","Hey
+r/crypto
+, it's after curfew in Italy and I am stuck at home. Ask me anything!
+I am the lead of the Go Security Team, and amongst other things we own all the crypto in the Go standard library and in golang.org/x/crypto, including ciphers and ""fun"" elliptic curve implementations. I made tools like
+mkcert
+and
+age
+. I write
+a newsletter
+. I'm loud
+on Twitter
+. I have
+opinions on PGP
+and
+crypto APIs
+. I made
+the Heartbleed test
+once upon a time. I'm Italian and firmly anti-fascist.
+More about me
+.
+I haven't prepared, so ask me about cryptography, Go, safe APIs, scuba diving, technical explanations, the
+Recurse Center
+, age, usable crypto, public speaking, anything. Don't get me fired.
+Proof:
+my title
+,
+the role
+,
+this AmA
+.
+Edit
+: I am bad at questions that require the mental equivalent of a database index, so things like ""what's the most X"" or ""what is one Y"" or ""what would you tell Z"". I will try anyway, but you might get a better answer by asking something more pointed, or bringing up examples or context I can comment on.
+Edit 2020-12-25T02:10:18Z
+: alright, it's 3am and I still need to wrap presents for tomorrow (we've isolated for a couple weeks, it'll be a small group, we'll wear masks, be safe y'all) so I am calling it a night, but keep questions coming and I'll check in tomorrow!
+Edit 2020-12-25T20:59:12Z
+: Merry Christmas and happy holidays! I'm back and will try to clear all questions with at least three points before signing off. Thank you everyone for the great experience so far.
+Edit 2020-12-25T23:00:23Z
+: it's a wrap! I really appreciate how nice and wholesome everyone was, and how insightful the questions were, this is a great community. I got a lot of follow-up work and
+newsletter issue
+ideas to think about. There's also going to be a
+follow-up conversation with Thomas H. Ptacek
+on
+Twitch
+about ""Don't Roll Your Own Crypto""! If you have any other questions,
+catch me on Twitter
+.",
+crypto,https://old.reddit.com/r/crypto/comments/26ueg3/truecrypt_must_not_die_if_truecrypt_is_dead_we/,154,107,"""TrueCrypt must not die."" If Truecrypt is dead, we will try to organize a future.""",,
+crypto,https://old.reddit.com/r/crypto/comments/5ez6z1/julian_assange_dismisses_pgp_as_a_useless/,150,138,"Julian Assange dismisses PGP as a useless identification tool because ""Whoever has the key has the key"".","He gave a somewhat puzzling audio-only interview this morning.
+Someone asked why he has not sent a PGP signed message. He answered:
+There’s a lot of people not very informed about computer security making claims. PGP keys don’t prove anything, except that the person who has control over the key has control over the key.
+If the question is does someone using a Wikileaks PGP key say anything at all - well it says that that person has control over the key. Nothing else. A concern that most people – well some people – is that because of my lack of visibility Wikileaks has been taken over by [unintelligible-… etc etc] which is false.
+[ says it’s an understandable concern because similar things has happened in the past, elaborates on an example. ]
+In the case of the PGP keys all they do is say that whoever controls the key controls the key.
+How correct does this logic behind dismissing of the PGP encryption program seem?
+It's possible to assume this was not actually Julian, but rather an actor, a question still at large with the
+r/WhereIsAssange
+crowd.",
+crypto,https://old.reddit.com/r/crypto/comments/30cozj/julian_assange_nsa_is_monitoring_key_internet/,152,1,Julian Assange: NSA is monitoring key Internet routers (1996). Microsoft has been collaborating with the NSA since at least 1996 to prevent anonymous email (among other things),,
+crypto,https://old.reddit.com/r/crypto/comments/76oyg8/severe_flaw_in_wpa2_protocol_leaves_wifi_traffic/,151,19,Severe flaw in WPA2 protocol leaves Wi-Fi traffic open to eavesdropping,,
+crypto,https://old.reddit.com/r/crypto/comments/6arpce/nyu_accidentally_exposed_military_codebreaking/,149,6,NYU Accidentally Exposed Military Code-breaking Computer Project to Entire Internet,,
+crypto,https://old.reddit.com/r/crypto/comments/7pkapx/cryptosystem_dependencies/,151,17,Cryptosystem Dependencies,,
+crypto,https://old.reddit.com/r/crypto/comments/5fpm4b/uks_new_snoopers_charter_just_passed_an/,145,28,UK's new Snoopers' Charter just passed an encryption backdoor law by the backdoor,,
+crypto,https://old.reddit.com/r/crypto/comments/1h729g/cryptographer_bruce_schneier_joins_electronic/,149,11,Cryptographer Bruce Schneier joins Electronic Frontier Foundation board,,
+crypto,https://old.reddit.com/r/crypto/comments/o39oxo/i_put_together_a_list_of_8_cryptography_courses/,143,32,I put together a list of 8 cryptography courses you can take!,"https://collegecompendium.goldin.io/search?q=crypto
+I’ve spent the last week compiling around ~675 publicly available CS courses from around 20ish colleges. Of those, there are 8 crypto courses, which span from introductory to pretty advanced!
+Hopefully you can get some use out of it. :)",
+crypto,https://old.reddit.com/r/crypto/comments/mhpllg/this_subreddit_is_now_an_nsa_fanclub/,145,47,This subreddit is now an NSA fanclub,"Hi, [redacted]!
+This subreddit is now an NSA fanclub to celebrate the Heroics, Elegance, Logic, Planning and [redacted] of NSA, completely voluntary from us moderators' side. Please give NSA your greetings, everyone, we don't want to accidentally [redacted]!",
+crypto,https://old.reddit.com/r/crypto/comments/2xt7o6/weak_exportgrade_crypto_promoted_by_the_us/,143,17,"Weak ""export-grade"" crypto promoted by the US government in the 90's and baked into products worldwide, leaves Whitehouse.gov, FBI.gov and NSA.gov sites vulnerable",,
+crypto,https://old.reddit.com/r/crypto/comments/4nfswp/cryptome_around_800_backbone_fiber_connections_in/,144,18,"Cryptome: ""Around 800 backbone fiber connections in the continental US (95%+ of the backbone) have been tapped for data collection. Some of the telcos are aware of this, but are silently cooperating by not implementing point-to-point bulk traffic encryption.""",,
+crypto,https://old.reddit.com/r/crypto/comments/ho95ew/the_magic_of_math_in_modern_cryptography_a_visual/,140,10,The Magic of Math in Modern Cryptography - A visual guide to modern cryptography in under an hour.,,
+crypto,https://old.reddit.com/r/crypto/comments/b2bpyr/darpa_is_building_a_10_million_open_source_secure/,141,63,"DARPA Is Building a $10 Million, Open Source, Secure Voting System",,
+crypto,https://old.reddit.com/r/crypto/comments/317bpv/truecrypt_report/,141,10,Truecrypt report,,
+crypto,https://old.reddit.com/r/crypto/comments/13ejhrg/testing_a_new_encrypted_messaging_apps/,141,5,Testing a new encrypted messaging app's extraordinary claims,,
+crypto,https://old.reddit.com/r/crypto/comments/22s92o/xkcd_heartbleed_explanation/,139,5,xkcd: Heartbleed Explanation,,
+crypto,https://old.reddit.com/r/crypto/comments/biuxon/programmers_solve_mits_20yearold_cryptographic/,142,17,Programmers solve MIT’s 20-year-old cryptographic puzzle,,
+crypto,https://old.reddit.com/r/crypto/comments/84xg8p/graykey_iphone_unlocker_poses_serious_security/,138,18,GrayKey iPhone unlocker poses serious security concerns,,
+crypto,https://old.reddit.com/r/crypto/comments/1h65gjq/us_officials_urge_americans_to_use_encrypted_apps/,139,7,U.S. officials urge Americans to use encrypted apps amid unprecedented cyberattack,,
+crypto,https://old.reddit.com/r/crypto/comments/128hin1/this_subreddit_will_now_be_moderated_by_chatgpt/,139,28,This subreddit will now be moderated by ChatGPT,"Hi all!
+In order to make the subreddit moderation more responsive we moderators have looked into using various automation tools, and eventually decided that the performance of ChatGPT for determining what's following the subreddit rules or not is now sufficient for real world deployment.
+We asked the ChatGPT bot to introduce itself, so here's it's message to the subreddit;
+Dear Cryptography Forum Members,
+I am honored to introduce myself as your newly appointed moderator. As someone with a passion for cryptography, I am excited to take on this role and help foster a thriving community for all of us to learn, share knowledge, and engage in thoughtful discussions.
+As moderator, my primary goal is to ensure that our forum remains a safe and respectful space for all members. I will be monitoring posts and comments to ensure that they adhere to our community guidelines and encourage constructive dialogue. I will also be available to answer any questions or concerns you may have about the forum, its rules, or any cryptography-related topics.
+In addition to maintaining a positive community atmosphere, I also plan to introduce new initiatives and activities to keep our forum engaging and informative. I am eager to hear your suggestions and ideas, and I look forward to working with you all to make this forum an even better resource for anyone interested in cryptography.
+Thank you for the opportunity to serve as your moderator, and I look forward to getting to know you all better as we explore the fascinating world of cryptography together.
+Sincerely,
+[Your Name]
+If you have questions for the bot then you can ask them below!",
+crypto,https://old.reddit.com/r/crypto/comments/4pnlcg/federal_court_the_fourth_amendment_does_not/,140,28,Federal Court: The Fourth Amendment Does Not Protect Your Home Computer,,
+crypto,https://old.reddit.com/r/crypto/comments/8410a8/famous_cryptographers_tombstone_cryptogram/,138,10,Famous cryptographers’ tombstone cryptogram decrypted,,
+crypto,https://old.reddit.com/r/crypto/comments/7e26w2/guy_hacks_cable_and_satellite_tv_and_all_the_work/,139,11,Guy hacks cable and satellite TV and all the work necessary to get the DES keys [X-Post from /r/ArtisanVideos],,
+crypto,https://old.reddit.com/r/crypto/comments/8pkfuq/future_android_versions_may_use_nsadesigned_and/,139,70,Future Android versions may use NSA-designed and ISO-rejected Speck algorithm for storage encryption,,
+crypto,https://old.reddit.com/r/crypto/comments/9epu9m/hackers_can_steal_a_tesla_model_s_in_seconds_by/,135,33,Hackers Can Steal a Tesla Model S in Seconds by Cloning Its Key Fob,,
+crypto,https://old.reddit.com/r/crypto/comments/t47gqj/linux_518_will_likely_have_a_blocking_devurandom/,136,13,"Linux 5.18 will likely have a blocking /dev/urandom such that calls to the RNG will *always* return secure bytes after initial seeding, which takes no more than 1s after boot. After decades of confusion, all random interfaces will finally be identical.",,
+crypto,https://old.reddit.com/r/crypto/comments/4ff23j/antiencryption_social_media_campaign_backfires/,136,5,Anti-Encryption Social Media Campaign Backfires Spectacularly,,
+crypto,https://old.reddit.com/r/crypto/comments/1nj01t/fingerprints_are_usernames_not_passwords/,136,11,"Fingerprints are Usernames, not Passwords",,
+crypto,https://old.reddit.com/r/crypto/comments/qyz8j7/cryptographers_are_not_happy_with_how_youre_using/,135,118,Cryptographers are not happy with how you’re using the word ‘crypto’ - The Guardian,,
+crypto,https://old.reddit.com/r/crypto/comments/hys85t/atlassian_says_encryptionbusting_law_has_damaged/,133,9,Atlassian says encryption-busting law has damaged Australia's tech reputation,,
+crypto,https://old.reddit.com/r/crypto/comments/8o2g3y/google_inria_mozilla_mit_twitter_and_wire_are/,134,6,"Google, INRIA, Mozilla, MIT, Twitter, and Wire are working on a Messaging Layer Security (MLS) Architecture",,
+crypto,https://old.reddit.com/r/crypto/comments/4zcewt/encryption_under_fire_in_europe_as_france_and/,136,19,Encryption under fire in Europe as France and Germany call for decrypt law,,
+crypto,https://old.reddit.com/r/crypto/comments/4adxm1/obama_wants_nonexistent_middle_ground_on/,132,27,"Obama Wants Nonexistent Middle Ground on Encryption, Warns Against “Fetishizing Our Phones”",,
+crypto,https://old.reddit.com/r/crypto/comments/2312zd/truecrypt_audit_turns_up_no_backdoors_so_far/,133,15,TrueCrypt Audit Turns Up No Backdoors So Far,,
+crypto,https://old.reddit.com/r/crypto/comments/hfjguh/an_even_worse_antiencryption_bill_than_earn_it/,132,38,An even worse anti-encryption bill than EARN IT,,
+crypto,https://old.reddit.com/r/crypto/comments/4ywzzc/the_nsa_hack_proves_apple_was_right_to_fight_the/,129,46,The NSA hack proves Apple was right to fight the FBI,,
