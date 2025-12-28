@@ -1,0 +1,418 @@
+subreddit,permalink,score,num_comments,title,body_text,image_url
+Amd,https://old.reddit.com/r/Amd/comments/k1mnga/the_moderators_of_ramd_do_not_condone_locating/,35338,1167,"The moderators of /r/AMD do NOT condone locating scalper auctions, leaving dozens of absurd bids, so as to repeatedly derail a scalper's opportunity to make a sale and ultimately de-incentivize PC hardware scalping.","There have been some whispers through the grapevine in many internet communities about a sad, wrong, and mean practice that I can only describe as pure evil. Folks, today I learned that there are people out there that use software tools to
+derail
+eBay listings for scalped graphics cards. Yes, that's right... people are using software to give themselves an unfair advantage in the exchange of PC hardware from manufacturers to consumers! WHO WOULD DO SUCH A THING!?  For example,
+see this well-known, already completed, eBay auction
+from days ago. Evil cyber criminals decimated this totally innocent and honest listing with dozens of fake bids. They bidded so rapidly, the lister couldn't even
+cancel them
+all - So sad!
+Doing this isn't a good idea because it could get your account banned from eBay... unless you were to use, say, a
+VPN service
+to make a bunch of throwaway eBay accounts and stockpile their logins in a spreadsheet or something haha... IDK... or maybe everyone in the bid history is safe as long as the upper-most bid is fake? I don't entirely know how this dark underbelly criminal enterprise works, I'm just here to get the word out. So very shocking, all of this.
+Again, do NOT do this. Scalpers are providing a
+valuable service
+to the PC gaming community when they pay $5 for bot scripts that snap up entire shipments of hardware from etailers and then automatically create auctions on other websites, pulling a 10x turnaround before the hardware even hits the first warehouse's shelves. It would be wrong to use bot scripts to deprive them of their right to trade graphics cards -
+just put yourselves in their shoes
+. They would
+never
+use technology maliciously to deprive
+you
+of a graphics card trade, would they? No. Never.
+Also - do not
+create
+,
+share
+, and use bot scripts or other software tools designed to derail these auctions with said throwaway eBay accounts (fully automated, or machine-assisted via URL scraping, doesn't matter). It's simply a very immoral and reprehensible thing to do. This should go without saying, but it's also very wrong to create and share public anti-scalper Telegram channels and Discord servers with the sole purpose of sharing eBay listings with each other for you, or your bid-bombing bots, to... well... bid-bomb. Very bad - do not do.
+Again - Please do not do any of these things. They will only get the account, and its hundreds (possibly thousands, if you bot) of dirty bids, banned from eBay (unless, again, the account merely drove up the bid price but wasn't the winner of the auction - they'd just be able to claim ""Oh, I bought something else because I didn't win. If only you had told me 5 minutes sooner. Darn!"").
+Just imagining the
+distraught and panicked
+look on this poor scalper's face when they're forced to stay up late into the night doing
+real, actual work
+, cancelling bids for hours on end as new stock trickles back onto the shelf should be enough to motivate you to not do it. They'd miss out on so many interactions with their loving friends and family that definitely exist. It just breaks my heart! What kind of
+awful
+person would use bot software to turn the tides of online sales in their own favor and deprive PC users of hardware? So very sad... to think, with each passing week, the shelf price falls further and further below what the scalpers paid on launch day... sometimes to the point that they might begin to wonder if their main source of income being ""owning someone else's graphics cards"" was a smart long-term idea...
+So, anyways... thanks for reading.",
+Amd,https://old.reddit.com/r/Amd/comments/isu0xa/radeon_rx_6000/,21040,1851,Radeon RX 6000,,https://i.redd.it/96re9ejng6n51.jpg
+Amd,https://old.reddit.com/r/Amd/comments/hsajlb/even_superman_needs_a_ryzen_3900x_instagram_post/,19076,798,Even Superman needs a Ryzen 3900x (Instagram post from Henry Cavill),,https://i.redd.it/7iep4hl9b8b51.jpg
+Amd,https://old.reddit.com/r/Amd/comments/jwgmrt/amd_owes_andre_10/,18232,1068,AMD owes Andre $10,,https://i.redd.it/rn2meubxc0061.png
+Amd,https://old.reddit.com/r/Amd/comments/jkb96d/the_one_feature_amd_needs_to_win_a_generation_of/,17576,589,The one feature AMD needs to win a generation of gamers,,https://i.redd.it/kzzd80zvp1w51.jpg
+Amd,https://old.reddit.com/r/Amd/comments/gmp45o/the_zen_3_architecture_is_coming_to_amd_x470_and/,17099,2272,"The ""Zen 3"" Architecture is Coming to AMD X470 and B450","As we head into our upcoming “Zen 3” architecture, there are considerable technical challenges that face a CPU socket as long-lived as AMD Socket AM4. For example,
+we recently announced
+that we would not support “Zen 3” on AMD 400 Series motherboards due to serious constraints in SPI ROM capacities in most of the AMD 400 Series motherboards. This is not the first time a technical hurdle has come up with Socket AM4 given the longevity of this socket, but it
+is
+the first time our enthusiasts have faced such a hurdle.
+Over the past week, we closely reviewed your feedback on that news: we watched every video, read every comment and saw every Tweet. We hear that many of you hoped for a longer upgrade path. We hear your hope that AMD B450 and X470 chipsets would carry you into the “Zen 3” era.
+Our experience has been that large-scale BIOS upgrades can be difficult and confusing especially as processors come on and off the support lists.  As the community of Socket AM4 customers has grown over the past three years, our intention was to take a path forward that provides the safest upgrade experience for the largest number of users. However, we hear you loud and clear when you tell us you would like to see B450 or X470 boards extended to the next generation “Zen 3” products.
+As the team weighed your feedback against the technical challenges we face, we decided to change course. As a result, we will enable an upgrade path for B450 and X470 customers that adds support for next-gen AMD Ryzen™ Processors with the “Zen 3” architecture. This decision is very fresh, but here is a first look at how the upgrade path is expected to work for customers of these motherboards.
+1) We will develop and enable our motherboard partners with the code to support “Zen 3”-based processors in select beta BIOSes for AMD B450 and X470 motherboards.
+2) These optional BIOS updates will disable support for many existing AMD Ryzen™ Desktop Processor models to make the necessary ROM space available.
+3) The select beta BIOSes will enable a one-way upgrade path for AMD Ryzen Processors with “Zen 3,” coming later this year. Flashing back to an older BIOS version will not be supported.
+4) To reduce the potential for confusion, our intent is to offer BIOS download only to verified customers of 400 Series motherboards who have purchased a new desktop processor with “Zen 3” inside. This will help us ensure that customers have a bootable processor on-hand after the BIOS flash, minimizing the risk a user could get caught in a no-boot situation.
+5) Timing and availability of the BIOS updates will vary and may not immediately coincide with the availability of the first “Zen 3”-based processors.
+6) This is the final pathway AMD can enable for 400 Series motherboards to add new CPU support. CPU releases beyond “Zen 3” will require a newer motherboard.
+7) AMD continues to recommend that customers choose an AMD 500 Series motherboard for the best performance and features with our new CPUs.
+There are still many details to iron out, but we’ve already started the necessary planning. As we get closer to the launch of this upgrade path, you should expect another blog just like this to provide the remaining details and a walkthrough of the specific process.
+At CES 2017, AMD made a commitment: we would
+support AMD Socket AM4 until 2020
+. We’ve spent the next three years working very hard to fulfill that promise across four architectures, plus pioneering use of new technologies like chiplets and PCIe® Gen 4. Thanks to your feedback, we are now set to bring “Zen 3” to the AMD 400 Series chipsets. We’re grateful for your passion and support of AMD’s products and technologies.
+We’ll talk again soon.",
+Amd,https://old.reddit.com/r/Amd/comments/kj3xnt/amazon_shipped_5900x_in_soft_pack_envelope/,16571,963,Amazon shipped 5900X in soft pack envelope :(,,https://i.redd.it/xa9wf3kfu0761.jpg
+Amd,https://old.reddit.com/r/Amd/comments/ipirjt/a_new_era_of_leadership_performance_across/,15782,2256,A new era of leadership performance across computing and graphics is coming. Join us on October 8 and October 28 to learn more about the big things on the horizon for PC gaming.,,https://i.redd.it/gu5jl8t775m51.jpg
+Amd,https://old.reddit.com/r/Amd/comments/hbxn6p/completely_and_absolutely_correct_use_of_your_64/,15641,516,Completely and absolutely correct use of your 64 Cores and 128 Threads,,
+Amd,https://old.reddit.com/r/Amd/comments/6st8zf/threadripper_sucks_in_games_from_techradar/,14806,832,ThreadRipper sucks in games! (From TechRadar),,http://i.imgur.com/KPE7E0s.jpg
+Amd,https://old.reddit.com/r/Amd/comments/ju8oew/userbenchmark_strikes_again/,13735,488,Userbenchmark strikes again!,,https://i.redd.it/58ov7gsam9z51.jpg
+Amd,https://old.reddit.com/r/Amd/comments/5x4hxu/we_are_amd_creators_of_athlon_radeon_and_other/,13465,16089,"We are AMD, creators of Athlon, Radeon and other famous microprocessors. We also power the Xbox One and PS4. Today we want to talk RYZEN, our new high-speed CPU five years in the making. We're celebrating with giveaways, and you can ask us anything! Special guest: AMD President and CEO Dr. Lisa Su.","Today is the day, everyone!
+Dr. Su is ready to answer your questions
+for the next hour (until 12:30p CST)!
+As for me: I'm wearing my
+Ryzen gameday 
+jacket
+, I just ate a Ryzen donut (breakfast of champions), and
+RYZEN IS FREAKIN' HERE
+!
+First, all of us would like to say
+thank you
+to this community and AMD fans everywhere for being patient and loyal as we brought Ryzen to life. Ryzen was five years in the making, and we know some of you have been with us virtually every step up the way. It was your passion for high-performance computing that aimed us at the desktop first.
+You
+helped make Ryzen happen. Again: thank you.
+If you haven't heard about Ryzen before, it is a brand new high-performance desktop PC processor for enthusiasts. It has >52% more throughput than our previous generations of product, plus 8 cores and 16 threads to tear through complex workloads. It's powerful, and an incredible value—especially for people who haven't upgraded in a few years.
+WHO'S DOING THE AMA?
+So, yes, all things Ryzen (and more) today! Starting with our guest of honor, AMD CEO Dr. Lisa Su, here are the AMDers on deck to answer your questions today. :) We'll try to get through as many questions as we can!
+AMA Host
+User Name
+AMD Role
+Schedule (24H Clock)
+Dr. Lisa Su
+/u/AMD_LisaSu
+President and CEO!
+1130a CST to 1230p CST
+Robert Hallock
+/u/AMD_Robert
+CPU Technical Marketing
+Until 1600 CST
+James Prior
+/u/AMD_James
+CPU Business Development
+1100 to 1300 CST
+DID SOMEONE SAY ""GIVEAWAY""?
+That's right! What would a good AMA be without some sweet Socket AM4 and Ryzen swag‽ Here's what's up for grabs:
+5x AMD Ryzen 7 1800X processors (8 cores, 16 threads, 3.6-4.0GHz)
+2x MSI X370 Xpower Gaming Titanium motherboards
+2x ASRock X370 Taichi motherboards
+2x BIOSTAR X370 RACING GT7 motherboards
+2x ASUS Crosshair VI Hero motherboards
+NEW
+2x Gigabyte GA-AX370-Gaming5 Motherboards
+NEW
+5x
+more
+AMD Ryzen 7 1800X processors
+RULES
+All you have to do is post a top-level comment in this thread to enter.
+One prize per person. They will be randomly awarded.
+One entry per person.
+I will randomly select winners by noon CST on March 3, 2017.
+Winners will be notified by Reddit PM by me alone.
+Don't get scammed: Delete any ""you're a winner!"" messages from anyone but me (
+/u/AMD_Robert
+).
+You must reside in Canada,
+USA
+, Europe*, Australia, New Zealand. I will be asking for proof of residency.
+Winners will stay anonymous, but may
+OPT IN
+to being announced as an edit on this Reddit thread. I will ask your decision by Reddit PM.
+Prizes will ship within 10 business days of your confirmation as a winner.
+* Many Europeans will ask me ""Robert, does my country count as Europe?"" If your country is
+listed in this section of Wikipedia
+, congratulations! You're in Europe! HYPE.
+WHAT WE CANNOT DISCUSS
+AMD is a publicly-traded company in the US, and it must comply with certain laws and regulations. Chief amongst those regulations is
+Regulation Fair Disclosure
+(RegFD), mandated by the US Securities and Exchange Commission. This law states that AMD must disclose previously unknown product or financial information to all investors simultaneously. Not every investor reads Reddit, so Reddit cannot be a platform for new or unreleased product info. We have to issue press releases (or similar) for information like that!
+So: if you haven't seen it mentioned in an official AMD presentation, investor update, press release, blog, or webpage we legally cannot comment. Sorry, y'all. That also means we can't discuss much on VEGA.
+Let's do this!
+//EDIT: Hi, everyone! Winners are being contacted right now. Stay tuned. Reminder: entry cutoff was at noon CST on 3/3.
+//EDIT #2: Still waiting on 5 confirmations from winners. Check your PMs, folks.
+//EDIT #3: Two confirmations remaining.
+//EDIT #4: All products have now been shipped. Awaiting tracking numbers. I will PM them.",
+Amd,https://old.reddit.com/r/Amd/comments/e336nu/oh_how_the_tables_have_turned/,12910,673,oh how the tables have turned,,https://i.redd.it/n4v61q3feh141.jpg
+Amd,https://old.reddit.com/r/Amd/comments/ijf5wa/anti_rgb_pc/,12876,558,Anti RGB PC,,https://i.redd.it/8pnrokjty5k51.jpg
+Amd,https://old.reddit.com/r/Amd/comments/jtlb89/i_present_to_you_my_most_expensive_mistake_to_date/,12811,1105,"I present to you, my most expensive mistake to date.",,https://i.redd.it/v1jeljkww1z51.jpg
+Amd,https://old.reddit.com/r/Amd/comments/141r768/should_ramd_join_the_48_hour_reddit_blackout/,12740,848,Should /r/AMD join the 48 hour Reddit blackout?,"Over the last 24-48 hours we have received numerous messages via modmail asking if
+/r/AMD
+should partake in the blackout, taking place from June 12th to June 14th.
+From July 1st, Reddit will begin charging for API access, which is likely to render many 3rd party apps unusable
+More information
+here
+We have discussed this internally and we are neutral on whether to partake or not, so this will be a community decision whether
+/r/AMD
+partakes in the blackout.
+Please discuss below.",
+Amd,https://old.reddit.com/r/Amd/comments/bth38c/feeling_cute_might_delete_later_ryzen_9_3900x/,12268,827,Feeling cute; might delete later (Ryzen 9 3900X),,https://i.imgur.com/dt0HvlZ.jpg
+Amd,https://old.reddit.com/r/Amd/comments/jvsp8d/line_already_started_outside_micro_center/,12113,1114,Line already started outside Micro Center,,https://i.redd.it/h9rm91ewusz51.jpg
+Amd,https://old.reddit.com/r/Amd/comments/itgy4m/amd_6000_series_graphic_card_real_photo_leaked_to/,11602,1046,AMD 6000 series graphic card real photo leaked to JayzTwoCents,,https://i.redd.it/8oqwm2tbfdn51.png
+Amd,https://old.reddit.com/r/Amd/comments/gk4kzv/more_proof_that_userbenchmark_is_run_by_12yearolds/,11436,1088,More Proof that Userbenchmark is run by 12-year-olds,,https://i.redd.it/vofbims5svy41.png
+Amd,https://old.reddit.com/r/Amd/comments/kjzojd/psa_disabling_epic_games_launcher_lowered_my/,11413,1320,PSA: Disabling Epic Games Launcher lowered my 5800X idle temps from 50C to 37C,"Actually can't believe it. Just...why.
+Edit: Use
+legendary
+and never open this malware again. You can redeem free games from the website. Also iCue (Corsair RGB) seems to be a similar resource hog.",
+Amd,https://old.reddit.com/r/Amd/comments/ixe4ig/ive_had_a_6000_series_card_for_awhile_now_not/,11317,465,"I've had a ""6000"" series card for awhile now. Not sure why everyone is so excited.",,https://i.redd.it/9be6mkx8tlo51.jpg
+Amd,https://old.reddit.com/r/Amd/comments/j4urrr/broke_up_with_my_girlfriend_so_i_built_a_new_one/,11195,396,Broke up with my girlfriend so I built a new one,,https://i.redd.it/9sqzqpk701r51.jpg
+Amd,https://old.reddit.com/r/Amd/comments/kud6dd/managed_to_grab_this_beast_for_just_500_gtx_1070/,11198,525,"Managed to grab this beast for just $500 - GTX 1070, Ryzen 7 1700",,https://i.redd.it/crclne75uha61.jpg
+Amd,https://old.reddit.com/r/Amd/comments/kgurua/gpu_prices_are_too_high_so_im_still_using_my_r7/,10691,485,GPU prices are too high so I’m still using my r7 360. The fan on it died so I tied a case fan to it. It ain’t much but it’s mine.,,https://i.redd.it/6r2cdi3tpc661.jpg
+Amd,https://old.reddit.com/r/Amd/comments/hvwv0l/it_happened/,10217,498,It happened...,,https://i.redd.it/f0c1p9ohqfc51.jpg
+Amd,https://old.reddit.com/r/Amd/comments/khdq1u/took_a_break_from_social_media_to_focus_on/,10195,377,Took a break from social media to focus on university and came back to this,,https://i.redd.it/x09ks4j9ai661.jpg
+Amd,https://old.reddit.com/r/Amd/comments/6g5gsi/so_i_had_a_little_help_installing_my_ryzen_7_1800x/,10099,225,So I had a little help installing my Ryzen 7 1800X...,,https://i.redd.it/whcnud5j0j2z.gif
+Amd,https://old.reddit.com/r/Amd/comments/jw9h11/dropping_the_review_embargo_the_second_the_rx6000/,10094,1400,Dropping the review embargo the second the RX6000 series goes up for sale is disgustingly anti-consumer,"I can't believe I have to post this but dropping review embargoes the second these cards go up for sale is bad for pretty much everyone that posts here yet I see a lot of people defending AMD's actions. Even nvidia had the courtesy of giving 72 hours for potential customers to decide whether or not the price to performance ratio was worth it.
+We know the RDNA2 cards will be in short supply and high demand. Regardless of performance, they'll sell because if you want new hardware this year, you don't really have a choice... But this exclusively hurts the early adopting enthusiasts who are unwilling to buy something without being knowledgeable about their purchase. By the time they get the information they need from reviews, they'll be sold out and they'll be stuck waiting god knows how long to get another shot with decent supply.
+RTX3000 series AIB review embargoes dropped the minute they went up for sale too but at least consumers knew the baseline performance for the FE cards. We don't even have that. Between the SAM debacle and the review embargo situation for Zen 3 and RDNA2, personally they've pissed any good will I had towards them as they become just another scummy corporation doing scummy things with cultists worshipping every anti-consumer move they make.
+This benefits nobody except for AMD and day traders that will flip the stock the second it's inconvenient to them
+(and speaking as an investor that bought at $2.24/share a couple years ago, I'm not happy about this, it leads me to believe they have something to hide, I'm just pointing this out because I literally have a financial incentive for AMD to do well and even I don't support these practices).
+Edit: The responses here are fucking pathetic. When AMD becomes the next Intel, you'll deserve it with your shitty cult worship.",
+Amd,https://old.reddit.com/r/Amd/comments/gziizd/for_people_freaking_out_over_ryzen_burnout/,9991,678,"For people freaking out over ""ryzen burnout"" article from Toms hardware",,https://i.redd.it/sjz0w49lau351.jpg
+Amd,https://old.reddit.com/r/Amd/comments/jesdrt/amds_guidelines_to_retailers_against_bots_and/,9775,730,AMD's guidelines to retailers against bots and scalpers,,https://i.redd.it/ns6ifhmiv9u51.png
+Amd,https://old.reddit.com/r/Amd/comments/k4iyw6/i_find_it_a_bit_dumb_that_amd_doesnt_include_the/,9592,594,"I find it a bit dumb that AMD doesn’t include the CPU name on the side of the box, unlike intel. You can’t really tell which CPU you are actually looking at.",,https://i.redd.it/x6oa7d7x6k261.jpg
+Amd,https://old.reddit.com/r/Amd/comments/gx21q1/so_my_little_brother_found_my_old_athlon_64/,9541,741,So my little brother found my old Athlon 64...,,https://i.redd.it/9x8o0h6sj2351.jpg
+Amd,https://old.reddit.com/r/Amd/comments/hu0aa9/ライゼン_ry_zen_a_zen_build/,9346,346,ライゼン - (Ry) Zen; a Zen build!,,https://i.redd.it/r7n3ct2tctb51.jpg
+Amd,https://old.reddit.com/r/Amd/comments/ho00o8/lol_look_at_what_ive_found/,9099,392,LOL look at what I’ve found,,https://i.redd.it/ek2aixxdus951.jpg
+Amd,https://old.reddit.com/r/Amd/comments/j7fbj5/where_gaming_begins_amd_ryzen_5000_zen3_series/,9077,8860,'Where Gaming Begins' — AMD Ryzen 5000 (Zen3) series announcement Megathread,"""Join AMD CEO Dr. Lisa Su as she details the highly anticipated AMD Ryzen™ desktop processor lineup powered by the groundbreaking “Zen 3” architecture.""
+As stated yesterday in
+this thread
+,
+submissions will be temporarily restricted before, during and after the event
+— we will then resume normality and allow articles and content from the usual websites, YouTube channels and commentators/analysts.
+Please use this megathread for live reaction and discussion.
+The event has now finished, it can be viewed
+HERE
+if you missed it. In summary, AMD Ryzen 5000 CPUs will be launching on November 5th and feature the Zen3 architecture, which brings a 19% IPC bump and an 8c CCX.
+AMD Ryzen 5950X / $799
+16 cores / 32 threads
+4.9GHz boost / 3.4GHz base
+72MB L2+L3 cache
+105W TDP
+AMD Ryzen 5900X / $559
+12 cores / 24 threads
+4.8GHz boost / 3.7GHz base
+70MB L2+L3 cache
+105W TDP
+AMD Ryzen 5800X / $449
+8 cores / 16 threads
+4.7GHz boost / 3.8GHz base
+36MB L2+L3 cache
+105W TDP
+AMD Ryzen 5600X / $299
+6 cores / 12 threads
+4.6GHz boost / 3.7GHz base
+35MB L2+L3 cache
+65W TDP",
+Amd,https://old.reddit.com/r/Amd/comments/jlu53t/amd_vs_nvidia_benchmarks_yall_are_dicks_so_heres/,9045,1043,AMD vs Nvidia Benchmarks: Yall are dicks so here's the part I didn't fuck up (probably),,https://i.redd.it/n80t14ft6jw51.jpg
+Amd,https://old.reddit.com/r/Amd/comments/jxyawi/walked_in_to_microcenter_to_help_a_buddy_build_a/,8979,456,Walked in to Microcenter to help a buddy build a starter PC. Walked out with a new 5900x they randomly restocked.,,https://i.redd.it/qdpij0ydug061.jpg
+Amd,https://old.reddit.com/r/Amd/comments/el1tag/huge_announcement_first_64_core_processor_ever/,8974,879,"Huge Announcement! First 64 Core processor ever announced: 3990X 64c / 128t for $3,990 | Render Test photo",,https://i.redd.it/k2cwivv1m8941.png
+Amd,https://old.reddit.com/r/Amd/comments/j7wap9/if_you_do_not_agree_with_the_zen_3_prices/,8959,1774,If you do not agree with the Zen 3 prices...,"...don't buy the product and AMD will drop the prices.
+If AMD does not drop the prices, it means that you are the minority. Simple as.
+Vote with your wallet, people.",
+Amd,https://old.reddit.com/r/Amd/comments/j7iduu/tekwendell_on_twitter_this_is_basically_the_gif/,8894,174,[tekwendell on Twitter] This is basically the .gif summary of the @AMDRyzen presentation with @LisaSu (Thanks for the pixels @BryanHeemskerk),,https://i.redd.it/hs1vo02qxwr51.gif
+Amd,https://old.reddit.com/r/Amd/comments/k0sxz7/radeon_launch_is_paper_launch_you_cant_prove_me/,8867,1777,Radeon launch is paper launch you can't prove me wrong,"Prices sky high and availability zero for custom cards. Nice paper launch AMD, you did even worse than NVIDIA.",
+Amd,https://old.reddit.com/r/Amd/comments/jo54ck/thanks_amazon_didnt_know_the_5950x_was_going_to/,8827,231,"Thanks Amazon, didn't know the 5950X was going to be 100% Cotton and Machine Washable!",,https://i.redd.it/qsnk3c62hax51.png
+Amd,https://old.reddit.com/r/Amd/comments/hr4p5w/my_father_did_this_15_mile_bike_ride_out_of/,8796,304,My father did this 15 mile bike ride out of excitement for the new AMD Ryzen™ Threadripper™ PRO. Thought y'all might enjoy it.,,https://i.redd.it/0hzz9hvsnua51.jpg
+Amd,https://old.reddit.com/r/Amd/comments/fvu0ii/mad_lad_amd/,8790,190,mad lad amd,,https://i.redd.it/67kl52bdc5r41.png
+Amd,https://old.reddit.com/r/Amd/comments/e4klj0/intel_is_still_sneakily_sabotaging_amd/,8663,529,"Intel is still sneakily sabotaging AMD performance using their compiler, despite being investigated by the FTC and ordered to stop 9 YEARS ago","Edit: Some very upset conspiracy theorists are accusing me of intentionally not editing clarifications in, so I'm gonna duplicate them up here as well. One major point of clarification on the second part of this post's title:
+Intel was not fully ordered to ""stop"" sending AMD owners down a slow execution path. In the conclusion of the FTC's investigation, they were only legally ordered to stop doing it in secret, which they have done in a maliciously minimal way. This is how they're able to get away with it - a misstep of justice, but legally passable. See the bottom summary for more information!
+A few days ago,
+a small internet uproar
+occured when it was discovered that Intel's MKL (that powers Matlab) changes its performance not based on CPU features, but on the company that made the CPU.
+I made a
+stickied comment
+there initially intending to summarize and compile the important details, but in doing so I fell down a rabbit hole. I'm not a trade lawyer, but this stuff seems pretty damning with even a general layman's scan.
+I dug into an old
+FTC investigation from 2009-2010
+that
+determined
+, not only did the FTC
+order
+intel to STOP doing exactly what they're doing today, but they
+call out Intel's Math Kernel Library by name
+(which can be found in the last page of the conclusion):
+IT IS FURTHER ORDERED that Respondent shall not make any engineering or design change to a Relevant Product if that change (1) degrades the performance of a Relevant Product sold by a competitor of Respondent and (2) does not provide an actual benefit to the Relevant Product sold by Respondent, including without limitation any improvement in performance, operation, cost, manufacturability, reliability, compatibility, or ability to operate or enhance the operation of another product; provided, however, that any degradation of the performance of a competing product shall not itself be deemed to be a benefit to the Relevant Product sold by Respondent. Respondent shall have the burden of demonstrating that any engineering or design change at issue complies with Section V. of this Order.
+The only way Intel can avoid guilt from this statement is by either proving that the version of the compiler Matlab uses is from before the settlement, or by falling under this exception:
+Provided, however, that the fact that the degradation of performance of a Relevant Product sold by a competitor of Respondent arises from a “bug” or other inadvertent product defect in and of itself shall not constitute a violation of Section V.A.1. Respondent shall have the burden of demonstrating that any such degradation of performance was inadvertent.
+Can anyone else make sense of this? How is a multi billion dollar company in seemingly blatant violation of an order from the Federal Trade Commision (continuously) for almost 10 years after getting caught?
+READ HERE FOR MORE
+Edit: More information in a good reply by
+/u/night0x63
+here
+. Here,
+/u/night0x63
+finds that (legally speaking) Intel may actually not be required to
+stop
+sabotaging performance, but ""skirted"" a bit, and is legally required to
+disclose
+that they do. As
+/u/demonstar55
+points out,
+this disclaimer is present in the footnotes if you want to read it
+. (using a blurry GIF image, which is immune to search engine crawling and keyword searching)!
+/u/smartcom5
+discovered that Intel, at some point, converted it to an image and trimmed off a lot of useful information. tl;dr: Write things very carefully if you work in the FTC.
+IN SUMMARY
+Thanks to more digging by people who are much better at interpreting legal documents than I, we have concluded how and why Intel is able to do this, despite being investigated for it:
+Intel's Math Kernel Library is NOT a compiler, incase anyone confuses it with one. Doesn't really matter to the FTC or consumers, but some wished to stress this.
+How Intel gets away with it: The ""Relevant Products"" section means (i) Relevant Microprocessor Products and (ii) Relevant GPUs (as defined on PAGE 5).
+Intel's MKL may hurt performance of AMD processors, but almost nothing uses it (you're probably not ever going to use it)
+Other Intel compilers and libraries have done this in the past
+The FTC investigated them and, at the very least, requires them to disclose what they do
+It's wrong regardless, but at least it's limited to very few consumer software products (currently)
+The great debate: Is it wrong to build libraries and compilers to utilize technologies that have been industry compatibility standard for years, and only use those features if the CPU is made by yourself? The FTC thinks so. Consumers think so. But, ultimately, the FTC is happy to live with it as long as Intel discloses this dark behavior to the millions that use and rely on down-stream technology, and the misleading benchmarks it helps fabricate...
+in a blurry GIF,
+linked to in a footnote.",
+Amd,https://old.reddit.com/r/Amd/comments/iq661v/march_2014september_2020_she_died_today_r9_270x/,8611,666,March 2014-September 2020. She died today. R9 270x,,https://i.redd.it/2a6fsnnjfcm51.jpg
+Amd,https://old.reddit.com/r/Amd/comments/jyub07/bye_1070_and_hello_team_red/,8599,481,Bye 1070 and hello team red.,,https://i.imgur.com/HFK1oy3.jpg
+Amd,https://old.reddit.com/r/Amd/comments/iknr7g/i_am_genuinely_scared_for_amd_gpus/,8505,2818,I am genuinely scared for AMD GPUs,"I hope they have something INSANE to show, but compared to Nvidia... It do be looking grim.",
+Amd,https://old.reddit.com/r/Amd/comments/jjq6v1/where_gaming_begins_ep_2_radeon_rx_6000_rdna2/,8456,9942,'Where Gaming Begins: Ep. 2' — Radeon RX 6000 (RDNA2) series announcement Megathread,"""Join AMD CEO Dr. Lisa Su as she explores the new AMD Radeon™ RX 6000 Series graphics cards powered by the RDNA 2 architecture, the most powerful gaming graphics cards ever built by AMD.""
+The event will be live-streamed on October 28th at 12pm Eastern, 4pm GMT, 9am PT, 5pm CET on the usual platforms, such as YouTube.
+LINK TO STREAM
+As stated earlier in
+this thread
+,
+submissions will be temporarily restricted before, during and after the event
+— we will then resume normality and allow articles and content from the usual websites, YouTube channels and commentators/analysts.
+Please use this megathread for live reaction and discussion.
+Summary of announcements
+RDNA2 brings a 50% performance per watt gain over RDNA, featuring an Infinity Cache based on the L3 cache used in AMD's Zen CPU architecture, it promises 2.7x the bandwidth of regular GDDR6 at 0.9x the power.
+AMD also announced Smart Access Memory and RAGE mode, which will further improve performance, if combined with a Ryzen 5000 series CPU.
+Radeon RX 6900 XT
+, available December 8th, MSRP of $999
+80 compute units
+2015MHz game clock / 2250MHz boost clock
+128MB Infinity Cache + 16GB GDDR6
+300W TGP
+Meant to be as fast as an RTX 3090
+Radeon RX 6800 XT
+, available November 18th, MSRP of $649
+72 compute units
+2015MHz game clock / 2250MHz boost clock
+128MB Infinity Cache + 16GB GDDR6
+300W TGP
+Meant to be as fast as an RTX 3080
+Radeon RX 6800
+, available November 18th, MSRP of $579
+60 compute units
+1815MHz game clock / 2105MHz boost clock
+128MB Infinity Cache + 16GB GDDR6
+250W TGP
+Faster than an RTX 2080 Ti",
+Amd,https://old.reddit.com/r/Amd/comments/j2nx5s/well_played_amd_well_played/,8305,180,"Well played AMD, well played...",,https://i.redd.it/w5vw89pcwaq51.jpg
+Amd,https://old.reddit.com/r/Amd/comments/ghkbq1/people_defending_amd_for_blocking_zen_3/,8238,2505,People defending AMD for blocking Zen 3 compatibility with older chipset boards need to stop.,"Quit it with the apologetic behavior and stop worshipping a company who's sole purpose is to empty your wallet. AMD is not your friend.
+This is purely 100% a business decision.
+Consumers defending this are exactly why these tech companies gouge and become so complacent with anti consumer practices in the first place. I mean just look at Nvidia and their sky high prices, but it doesn't matter because people are still buying their cards, and that's the go ahead signal that tells them to keep fucking us.
+Intel got made fun of all this time because 9900Ks could have worked on many Z170 boards. But they chose to artificially create a segmentation and force people to upgrade. People used AMD as example, ""oh Intel why can you be more like amd"".
+But now AMD are finding themselves in the exact same shoes, but this time it's ""well hur durr they didn't promise you anything get over it"". It's not a matter of promising, it's a matter of providing people the full benefit for their product. Ryzen 4000 should have been compatible but it's not for the stupidest reason that's been debunked.
+AMD just because you're winning now does warrant you to indulge in anti consumer behavior now.
+EDIT: It's sad and also hilarious at the same time to see so many people turn a blind-eye to this when its literally the same thing all these guys gave Intel shit for.
+EDIT 2: If there was an alternative universe where DOOMGUY had to go around slaying AMD fanboys, I think even he would quit because of how fucking insufferable these people are.
+EDIT 3: For the people saying I'm entitled and saying I'm preventing amd from making money are missing the point. Im not saying amd shouldn't conduct their business, but just know that we need to be aware of their true motives and any sort anti-consumer tactics should be called out. If you stay quiet and continue to let them do whatever, then don't be surprised when the next gen cpus aren't as cheap as you thought they were going to be.",
+Amd,https://old.reddit.com/r/Amd/comments/6kmzjo/ryzen_overtakes_i7_7700k_to_become_best_seller_on/,8162,790,Ryzen overtakes i7 7700k to become best seller on amazon,,
+Amd,https://old.reddit.com/r/Amd/comments/iw9icz/wraith_stealth_did_a_mediocre_job_of_cooling_my/,8137,447,Wraith Stealth did a mediocre job of cooling my 2600 so I turned it into an exhaust fan as punishment,,https://i.imgur.com/K8Obh1j.jpg
+Amd,https://old.reddit.com/r/Amd/comments/kbp0np/cyberpunk_2077_seems_to_ignore_smt_and_mostly/,8108,1600,"Cyberpunk 2077 seems to ignore SMT and mostly utilise physical CPU cores on AMD, but all logical cores on Intel","A german review site that tested
+30 CPUs in Cyberpunk at 720p
+found that the 10900k can match the 5950X and beat the 5900X, while the 5600X performs about equal to a i5 10400F.
+While the article doesn't mention it, if you run the game on an AMD CPU and check your usage in task manager, it seems to utilise 4 (logical, 2 physical) cores in frequent bursts up to 100% usage, where as the rest of the physical cores sit around 40-60%, and their logical counterparts remaining idle.
+Here is an example using the 5950X (3080, 1440p Ultra RT + DLSS)
+And 720p Ultra, RT and DLSS off
+A friend running it on a 5600X reported the same thing occuring.
+Compared to an Intel i7 9750H, you can see that all cores
+are being utilised
+equally, with none jumping like that.
+This could be deliberate optimisation or a bug, don't know for sure until they release a statement. Post below if you have an older Ryzen (or intel) and what the CPU usage looks like.
+Edit:
+Beware that this should work best with lower core CPUs (8 and below) and may not perform better with high core multi-CCX CPUs (12 and above, etc), although some people are still reporting improved minimum frames
+Thanks to
+/u/UnhingedDoork
+'s post about
+hex patching the exe to make the game think you are using an Intel processor
+, you can try this out to see if you may get more performance out of it.
+Helpful step-by-step instructions I also found
+And even a video tutorial
+Some of my own quick testing:
+720p low, default exe, cores fixed to 4.3Ghz
+: FPS seems to hover in the 115-123 range
+720p low, patched exe, cores fixed to 4.3Ghz
+: FPS seems to hover in the 100-112 range, all threads at medium usage (So actually worse FPS on a 5950X)
+720p low, default exe, CCX 2 disabled
+: FPS seems to hover in the 118-123 range
+720p low, patched exe, CCX 2 disabled
+: FPS seems to hover in the 120-124 range, all threads at high usage
+1080P Ultra RT + DLSS, default exe, CCX 2 disabled
+: FPS seems to hover in the 76-80 range
+1080P Ultra RT + DLSS, patched exe: CCX 2 disabled
+: FPS seems to hover in the 80-81 range, all threads at high usage
+From the above results, you may see a performance improvement if your CPU only has 1 CCX (or <= 8 cores). For 2 CCX CPUs (with >= 12 cores), switching to the intel patch may incur a performance overhead and actually give you worse performance than before.
+If anyone has time to do detailed testing with a 5950X,
+this is a suggested table
+of tests, as the 5950X should be able to emulate any of the other Zen 3 processors.",
+Amd,https://old.reddit.com/r/Amd/comments/dkgovv/this_is_my_3d_printed_killab_pc_its_running_a/,8098,317,"This is my 3D printed ""Killa-B"" PC. It's running a Ryzen 2400G with 32GB of RAM. The case is heat sensitive, so it goes from purple to hot pink when it reaches ~30C.",,https://i.redd.it/i34i3fb4jnt31.png
+Amd,https://old.reddit.com/r/Amd/comments/jrlw81/dutch_shop_openly_scalping/,8048,617,Dutch shop openly scalping.,,https://i.redd.it/gaqq47gmafy51.png
+Amd,https://old.reddit.com/r/Amd/comments/c9t6ft/look_what_i_just_got_d/,8046,1030,Look what i just got :D,,https://i.redd.it/czntecu3io831.jpg
+Amd,https://old.reddit.com/r/Amd/comments/hzxqj7/another_asus_ryzen_laptop_with_covered_up_intake/,8015,766,Another Asus Ryzen laptop with covered up intake...,,https://i.redd.it/tlukm46xmrd51.png
+Amd,https://old.reddit.com/r/Amd/comments/h0j1lc/zen_2_family_photo/,7984,273,Zen 2 family photo :),,https://i.redd.it/2r80va1m35451.png
+Amd,https://old.reddit.com/r/Amd/comments/ivy021/found_this_preloved_bad_boy_for_88_usd_my_friends/,7859,492,Found this pre-loved bad boy for $88 USD My friends will not understand why i am so excited so here i am sharing it with you guys!,,https://i.redd.it/jkkl6dn635o51.jpg
+Amd,https://old.reddit.com/r/Amd/comments/klv9xo/having_to_wait_first_world_problem_not_paying/,7810,569,"Having to wait, first world problem. Not paying scalpers price is worth it to me.",,https://i.redd.it/dnx6gj3avy761.jpg
+Amd,https://old.reddit.com/r/Amd/comments/ie7k1u/found_this_koi_fish_looking_like_the_ryzen_logo/,7804,143,Found this koi fish looking like the Ryzen logo and I thought it would look cool. I call it Koizen :),,https://i.redd.it/cs1ied67ufi51.png
+Amd,https://old.reddit.com/r/Amd/comments/l9nbzz/all_amd_build_with_the_right_colors/,7798,332,All AMD build with the right colors,,https://i.redd.it/u8svdax2rqe61.jpg
+Amd,https://old.reddit.com/r/Amd/comments/jp2uab/its_official_the_5600x_is_the_best_bang_for_your/,7702,1307,"Its Official, The 5600X is the Best Bang for your Buck, Mainstream Gaming CPU","Highlights from GN's video...
+Beats the 10900k in most games for less than half the price and with less cores.
+Draws less power than the previous gen 3300X (both at stock)
+Once GPU bound (above 1080p), it equals and sometimes even beats, the 5950X
+In fact, Steve has given it the Best Gaming CPU outright tag, with one asterisk... except in RDR2. Even against the higher spec Zen3 CPU's it wins.
+https://www.youtube.com/watch?v=01EhbmJAW-k",
+Amd,https://old.reddit.com/r/Amd/comments/jl0h3i/forget_bikes_how_about_figurines/,7695,267,Forget bikes. How about figurines?,,
+Amd,https://old.reddit.com/r/Amd/comments/mtiw61/first_time_going_all_amd_so_i_want_to_show_my/,7620,337,First time going all AMD so I want to show my build off,,"['https://preview.redd.it/ybv2f2lnazt61.jpg?width=108&crop=smart&auto=webp&s=cdde531d584d05b4e17cfe635e6a30e3bcc11c2b', 'https://preview.redd.it/fz39a2lnazt61.jpg?width=108&crop=smart&auto=webp&s=30d1b63100de7c272bf78439bbfd7547515e266c', 'https://preview.redd.it/09r7k2lnazt61.jpg?width=108&crop=smart&auto=webp&s=cc8753a7a9a417b35ed657d5131a25a13fdfe194', 'https://preview.redd.it/ofxv43lnazt61.jpg?width=108&crop=smart&auto=webp&s=c1cde68a8433552b1091efff6e10840f6948f510']"
+Amd,https://old.reddit.com/r/Amd/comments/k7tlcf/new_rig_ryzen_5900x_5700xt/,7523,445,New rig: Ryzen 5900X & 5700XT,,https://i.redd.it/yoy57e4fhk361.jpg
+Amd,https://old.reddit.com/r/Amd/comments/6f48n7/linus_amds_threadripper_has_intel_in_a_fullon/,7508,1201,Linus: AMD's Threadripper has Intel in a full-on panic,,
+Amd,https://old.reddit.com/r/Amd/comments/i54rux/new_gaming_laptop_arrived_today_lets_go/,7496,402,New gaming laptop arrived today - let's go!,,https://i.redd.it/0cztriouhhf51.jpg
+Amd,https://old.reddit.com/r/Amd/comments/jk0lpa/that_tweet_from_adm_tho_lol/,7479,439,That tweet from ADM tho lol,,https://i.redd.it/dvmh793moxv51.jpg
+Amd,https://old.reddit.com/r/Amd/comments/jwzwub/one_of_the_big_offical_amd_sellers_in_the/,7403,758,"One of the big offical AMD sellers, in the netherlands selling the 6800 xt for more than 1200 dollar at this point it isn't even funny anymore",,https://i.redd.it/nw9sgeaa46061.jpg
+Amd,https://old.reddit.com/r/Amd/comments/jogyvt/3d_neon_amd_wallpaper_3840_x_2160/,7367,177,3D Neon AMD Wallpaper [3840 x 2160],,https://i.redd.it/54q1wuddlex51.png
+Amd,https://old.reddit.com/r/Amd/comments/jmcccn/scam_is_real_be_careful_who_you_from/,7298,357,Scam is real be careful who you from,,https://i.redd.it/ng3sos3xopw51.jpg
+Amd,https://old.reddit.com/r/Amd/comments/lpo14d/radeon_software_tray_icon_looks_bad_i_think/,7247,174,Radeon Software tray icon looks bad. I think something like this would be better,,https://i.redd.it/5ud869cc61j61.png
+Amd,https://old.reddit.com/r/Amd/comments/ktsm7a/my_first_ever_amd_build/,7236,355,My first ever AMD build !,,https://i.redd.it/xnie4vpmpba61.jpg
+Amd,https://old.reddit.com/r/Amd/comments/dy2uhc/rick_sanchez_rick_and_morty_runs_amd_cpus/,7165,328,Rick Sanchez (Rick and Morty) runs AMD CPU's.,,https://i.imgur.com/laJ0A2C.jpg
+Amd,https://old.reddit.com/r/Amd/comments/i0m6mc/are_fingerprints_normal_for_brand_new_cpus_seems/,7136,759,Are fingerprints normal for brand new CPUs? Seems a bit sketchy to me.,,https://i.redd.it/a74c4u7ozzd51.jpg
+Amd,https://old.reddit.com/r/Amd/comments/kxv57k/time_for_an_upgrade_i_guess/,7030,179,Time for an upgrade i guess ?,,https://i.redd.it/nx8ltxk96ib61.png
+Amd,https://old.reddit.com/r/Amd/comments/l01p4t/intel_and_nvidia_had_an_internal_agreement_that/,7006,702,"Intel and NVIDIA had an internal agreement that blocked the development of laptops with AMD Renoir and GeForce RTX 2070 and above [PurePC.pl, Google Translated]",,
+Amd,https://old.reddit.com/r/Amd/comments/cama5x/top_10_anime_crossovers/,6989,427,Top 10 anime crossovers,,https://i.redd.it/jvz104lti3931.png
+Amd,https://old.reddit.com/r/Amd/comments/igb8hn/wish_me_luck_lol/,6933,387,Wish me luck lol,,https://i.redd.it/9thdcjel75j51.jpg
+Amd,https://old.reddit.com/r/Amd/comments/kfaaqt/somehow_i_managed_to_buy_a_rx_6900_xt_on_release/,6829,387,somehow i managed to buy a rx 6900 xt on release day through the amd store. it showed up today! i didint think they existed until i had it in my hand.,,
+Amd,https://old.reddit.com/r/Amd/comments/k2pl8i/50_rx_570_blower_in_my_budget_pc_build_with_lame/,6814,379,50$ RX 570 blower in my budget PC build with lame case,,https://i.redd.it/8ht0pgdf20261.jpg
+Amd,https://old.reddit.com/r/Amd/comments/k0aoas/loving_the_r_key_that_comes_with_the_reference/,6816,246,"Loving the R key that comes with the reference boards. Nice touch, AMD.",,https://i.redd.it/bjvufr1md8161.jpg
+Amd,https://old.reddit.com/r/Amd/comments/ks122v/my_used_amazon_motherboard_had_a_broken_pin/,6798,759,My Used Amazon motherboard had a broken pin inside and destroyed my 5600x and 3600x.,,https://i.redd.it/6zowgcvzzs961.jpg
+Amd,https://old.reddit.com/r/Amd/comments/eo87k3/thanks_amd_very_cool/,6805,737,"Thanks AMD, very cool!",,https://i.redd.it/cwdthyfzbla41.jpg
+Amd,https://old.reddit.com/r/Amd/comments/jpkzio/just_finished_my_5800x_rtx3080_build/,6799,602,Just finished my 5800x rtx3080 build,,https://i.imgur.com/Loyzf99.jpg
+Amd,https://old.reddit.com/r/Amd/comments/heawzw/intel_faces_criticism_for_claiming_superior/,6709,442,"Intel faces criticism for claiming ‘superior gaming performance’ over AMD, but uses better GPU for comparison",,
+Amd,https://old.reddit.com/r/Amd/comments/iukjha/for_the_love_of_god_amd/,6709,712,For the love of God AMD...,"Please please please don’t be like NVIDIA and let the scalper bots get all the 3080s before the page even refreshes 10secs after launch.
+Just sauce a Captcha up on that website and we’ll be all set for the RX6000 launch.
+Edit: Woah thanks for the support everyone. With any luck, SuBae will notice and give us a hand!",
+Amd,https://old.reddit.com/r/Amd/comments/lsktgi/there_is_actually_no_difference_besides_a_crappy/,6695,291,There is actually no difference besides a crappy misaligned sticker gigabyte adds lmao,,
+Amd,https://old.reddit.com/r/Amd/comments/mvg0cv/intel_not_even_top20_anymore/,6678,407,Intel not even top-20 anymore.,,https://i.redd.it/l6rb4mtk6ju61.png
+Amd,https://old.reddit.com/r/Amd/comments/ka76s6/happy_cyberpunk_day_my_vega_64_celebrated_by/,6611,660,Happy Cyberpunk Day. My Vega 64 celebrated by blowing up. Any chance of repairing this or should I be... looking for a new card at the worst time imaginable?,,https://i.redd.it/97stssfa0a461.jpg
+Amd,https://old.reddit.com/r/Amd/comments/juktnw/curious_to_see_how_frank_azors_tweet_will_age/,6578,660,Curious to see how Frank Azor’s tweet will age!,,https://i.redd.it/4w3tyqli8ez51.jpg
+Amd,https://old.reddit.com/r/Amd/comments/kovrmv/since_i_cant_buy_one_i_made_a_vector_drawing_of/,6561,182,Since I can't buy one I made a vector drawing of the AMD 6900 XT instead,,https://i.redd.it/rfny8nc6iw861.png
+Amd,https://old.reddit.com/r/Amd/comments/f6au1q/amd_wont_get_any_of_my_money_in_the_near_future/,6511,551,AMD won't get any of my money in the near future...,"After purchasing an R5 3600 + MSI B450 A Pro Max I can pretty confidently say, that AMD will not get any money by me in the nearer future.
+Coming from an ancient craptop ""powered"" by an i7 2600 QM, I thought I couldn't do anything wrong anyways, the performance gain will be too huge either way.
+I invested quite some time in researching for some proper components for my first own desktop build. And I have to confess, I was pretty hyped about the Ryzen 3000 Desktop CPUs. So I thought, lets just give it a try.
+And then, after I've built it I was just blown away by the performance. I won't need to upgrade it in the next couple of years OMG!
+So as long as nothing gets broken, AMD will not get a single cent by me, neither will other hardware manufacturers.
+Until I need an upgrade ofc :)",
+Amd,https://old.reddit.com/r/Amd/comments/sk7ldz/jesus_the_steam_deck_is_huge/,6490,565,Jesus the steam deck IS HUGE,,https://i.redd.it/vt6uikhatrf81.jpg
+Amd,https://old.reddit.com/r/Amd/comments/ljqldv/could_we_please_stop_with_the_battlestation_posts/,6465,539,Could we PLEASE stop with the battlestation posts COMPLETELY?,"​
+Look at the front page.
+Honestly, the battlestations on
+r/Amd
+is just pointless to me. There's an
+r/battlestations
+for a reason. This is an AMD subreddit, not a place for people to show off their new builds. It gets annoying and it's counterproductive to me—we could have much more interesting conversations over ""oooh look at my PC."" I think the battlestation posts should completely disappear. This is literally just promoting the terrible ideal of ""I spend 2000 dollars, I get 2000 upvotes.""
+​
+Edit: thanks for the gold and awards, everyone.",
+Amd,https://old.reddit.com/r/Amd/comments/l7xk5t/amd_was_the_fastest_growing_tech_company_in/,6453,249,"AMD was the Fastest Growing Tech Company in America in 2020, Beating Apple and NVIDIA",,
+Amd,https://old.reddit.com/r/Amd/comments/jyjyzt/finally_was_able_to_complete_my_new_build/,6455,309,Finally was able to complete my new build.,,https://i.redd.it/44tjy3uj5o061.jpg
