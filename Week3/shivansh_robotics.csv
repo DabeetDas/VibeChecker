@@ -1,0 +1,216 @@
+subreddit,permalink,score,num_comments,title,body_text,image_url
+robotics,https://old.reddit.com/r/robotics/comments/1ib1mr5/tentacle_equipped_drone/,5861,124,Tentacle equipped drone,,
+robotics,https://old.reddit.com/r/robotics/comments/1mmqhsm/can_we_take_a_moment_to_appreciate_this_insane/,3968,144,Can we take a moment to appreciate this insane quadruped robot my friend built?,"Original source:
+https://www.youtube.com/watch?v=13sFtfWyPPo",
+robotics,https://old.reddit.com/r/robotics/comments/1na0o9p/dusty_robotics_is_demonstrating_a_small_robot/,3831,114,Dusty Robotics is demonstrating a small robot field printer designed to automate construction layout by printing floor plans directly onto the ground in the building site.,,
+robotics,https://old.reddit.com/r/robotics/comments/1nhfvk8/fallproof_algorithm/,3392,276,Fall-proof algorithm,,
+robotics,https://old.reddit.com/r/robotics/comments/ul1mxs/diablo_selfbalancing_robot_in_rc_mode_pretty_good/,3125,455,"Diablo self-balancing robot in RC mode, pretty good so far.",,
+robotics,https://old.reddit.com/r/robotics/comments/1hpwbv8/finally_our_etchasketch_robot_plays_videos/,2941,68,"FINALLY, our etch-a-sketch robot plays videos!",,
+robotics,https://old.reddit.com/r/robotics/comments/1nbzdhw/teleoperating_my_robot/,2655,96,Teleoperating my Robot,"Hi everyone, I wanted to share some updates on my latest progress with teleoperating the robot’s arms.
+The robot itself runs on two So-101 units, which I control using two additional So-101s.
+On the software side, I’m using Phosphobot’s program to handle everything.
+For those curious about the head and control system: it’s based on a design by YouTuber MaxImagination, originally intended for RC cars — I described it in more detail in my last post.
+The arms are still a bit shaky, and the robot tends to swing, which makes the camera feed a little shaky as well — but those are problems for another time.
+I’ll keep you posted with further progress!",
+robotics,https://old.reddit.com/r/robotics/comments/rmbzds/i_built_a_fullauto_nerf_gun_that_shoots_me_in_the/,2588,69,I built a full-auto nerf gun that shoots me in the face,,
+robotics,https://old.reddit.com/r/robotics/comments/1mqt19x/unitree_wins_the_gold_medal_for_the_1500m_run_at/,2575,135,"Unitree wins the gold medal for the 1500m run at the World Humanoid Robot Games, setting a world record time of 6 minutes and 34 seconds. (The current men's world record is 3:26)",,
+robotics,https://old.reddit.com/r/robotics/comments/hsmlnv/a_guy_that_goes_by_the_name_ian_davis_made_his/,2559,73,A guy that goes by the name Ian Davis made his own homemade robotic hand,,
+robotics,https://old.reddit.com/r/robotics/comments/1lo2fm2/hybrid_aerial_and_underwater_drone_built_by/,2457,85,Hybrid aerial and underwater drone built by undergrad students,"Source:
+https://www.youtube.com/watch?v=g7vmPFZrYAk",
+robotics,https://old.reddit.com/r/robotics/comments/hp5xr2/my_first_robot_with_inverse_kinematics/,2370,66,My first robot with inverse kinematics,,
+robotics,https://old.reddit.com/r/robotics/comments/1kkm0f5/i_graduated_college_with_a_robot_on_my_cap/,2278,45,I graduated college with a robot on my cap!,,
+robotics,https://old.reddit.com/r/robotics/comments/1gaczz4/robot_leaf_blower/,2267,152,Robot Leaf Blower,,
+robotics,https://old.reddit.com/r/robotics/comments/1ph3scw/tesla_optimus_faints_when_operator_takes_off_vr/,2259,121,Tesla Optimus faints when operator takes off VR headset,,
+robotics,https://old.reddit.com/r/robotics/comments/1nzl4d0/brett_adcock_this_week_figure_has_passed_5_months/,2219,252,"Brett Adcock: ""This week, Figure has passed 5 months running on the BMW X3 body shop production line. We have been running 10 hours per day, every single day of production! It is believed that Figure and BMW are the first in the world to do this with humanoid robots.""",,
+robotics,https://old.reddit.com/r/robotics/comments/11uv5cj/that_is_pretty_impressive_and_such_an_intelligent/,2179,59,That is pretty impressive and such an intelligent design @ZiplineRwanda,,
+robotics,https://old.reddit.com/r/robotics/comments/1j38vxr/i_finally_did_it/,2091,144,i FINALLY did it,"this lil guy is called Jinx. this was my first  robotics project, and i was strongly advised to do something simpler.
+after a lot of work (starting with zero knowledge), im glad that it's walking. the inverse kinematics is very general, so i can adapt it to any hexapod dimensions and i can easily design new gaits.
+the next steps will be to continue to refine the firmware, spend (EVEN MORE) money to make it battery powered, add remote control and polish the design a bit.
+im really proud of achieving this as a beginner, but constructive criticism is still welcome.",
+robotics,https://old.reddit.com/r/robotics/comments/1h8wk61/my_first_robot_a_visioncontrolled_pen_plotter/,2043,82,My first robot - a vision-controlled pen plotter!,,
+robotics,https://old.reddit.com/r/robotics/comments/kntfa6/have_a_good_healthy_2021_everyone/,2024,51,Have a good & healthy 2021 everyone !,,
+robotics,https://old.reddit.com/r/robotics/comments/1ks98aq/from_ucla_special_robots_made_from_helium/,1979,105,From UCLA : special robots made from helium balloons and moving legs that float and walk around.,"Source :
+https://x.com/RoMeLaUCLA",
+robotics,https://old.reddit.com/r/robotics/comments/1l911g4/g1_got_the_new_running_update/,1955,113,G1 got the new Running Update,"Just got the new update, pretty wicked! Love how it runs. Even for the basic model it’s really good 😊 can’t wait for future updates",
+robotics,https://old.reddit.com/r/robotics/comments/1o3tm23/testing_our_hexapod/,1899,88,Testing our hexapod,"I thought you all might like to see some behind the scenes footage of our hexapod, Charlotte being tested.
+She's got a long way to go, but eventually the intention is to pair her with a new kind of large form factor extruder that ""prints"" earth bag walls for buildings.",
+robotics,https://old.reddit.com/r/robotics/comments/1k00ate/worlds_first_wireless_bionic_hand_remotely/,1891,90,World's First Wireless Bionic Hand Remotely Controlled by Amputee,,
+robotics,https://old.reddit.com/r/robotics/comments/fubljk/i_got_to_bring_a_robot_arm_home_from_work_due_to/,1893,68,I got to bring a robot arm home from work due to the shelter-in-place order,,
+robotics,https://old.reddit.com/r/robotics/comments/1nr13gr/i_updated_my_facehugger_robot_animatronic/,1729,108,I updated my Facehugger robot animatronic,"You can download the files, manual and code here:
+https://cults3d.com/:3478060",
+robotics,https://old.reddit.com/r/robotics/comments/og1jw2/a_robot_who_does_magic/,1669,29,A Robot Who Does Magic,,
+robotics,https://old.reddit.com/r/robotics/comments/o3pzus/awesome_active_ball_joint_mechanism/,1645,43,Awesome active ball joint mechanism,,
+robotics,https://old.reddit.com/r/robotics/comments/r75v2j/the_official_release_of_ameca_engineeredarts_ltd/,1640,133,The official release of Ameca EngineeredArts Ltd platform for AI and HRI. Will be on show at ces2022 in Las Vegas this January come and check out humanoid robot interaction,,
+robotics,https://old.reddit.com/r/robotics/comments/pd6a8x/my_first_line_following_robot_competition/,1616,29,My first Line Following Robot competition.,,
+robotics,https://old.reddit.com/r/robotics/comments/rv0134/i_built_a_flower_girl_robot_for_my_wedding/,1615,68,I built a flower girl robot for my wedding,,
+robotics,https://old.reddit.com/r/robotics/comments/1mhpdo2/teleoperating_my_robots_head/,1611,70,Teleoperating My Robots Head,"Hi! I wanted to show you the latest progress on my robot, RKP-1.
+I'm using an FPV headset from my drone to remotely control the robot's head.
+The PCBs are from the YouTuber MaxImagination.
+The head uses two simple MG996R servo motors, and the video feed is transmitted through a basic mini FPV camera mounted in the center.
+I'll keep you updated!",
+robotics,https://old.reddit.com/r/robotics/comments/pqomr7/my_robot_dog_stands_up_on_its_own_next_step/,1614,50,My robot dog stands up on its own! Next step: walking 🤖,,
+robotics,https://old.reddit.com/r/robotics/comments/1iv4tx7/use_case_for_self_balancing_robotic_bikes/,1603,111,Use case for self balancing robotic bikes?,,
+robotics,https://old.reddit.com/r/robotics/comments/1lurg9x/my_final_year_project_for_my_masters_degree/,1604,98,My final year project for my masters degree,"EMG signals are recorded from the armbands, transmitted to my laptop via Bluetooth, classified using an optimised KNN model which then determine the gesture to be displayed on the prosthetic hand.",
+robotics,https://old.reddit.com/r/robotics/comments/1jexz2h/boston_dynamics_atlas_run_walk_crawl_rl_fun/,1594,173,"Boston Dynamics Atlas - Run, Walk, Crawl, RL Fun",,
+robotics,https://old.reddit.com/r/robotics/comments/1pcz5ba/waymo_selfdriving_car_enters_active_police/,1570,120,Waymo self-driving car enters active police standoff with passenger inside,"Videoshows a driverless Waymo entering a police felony stop perimeter in
+Downtown LA.
+The Incident:
+The vehicle navigated
+just a few feet
+from officers during a tense standoff while a suspect was on the ground.
+The Failure:
+The planner technically worked (it didn't hit anyone) but it completely failed to read the room. It highlights that
+current AVs
+have zero concept of danger or social context beyond basic geometry.
+Outcome:
+Passengers were safe, but officers had to shout commands at a car that couldn't understand the urgency.
+Source : NBC News
+🔗:
+https://www.google.com/amp/s/www.nbcnews.com/news/amp/rcna246994",
+robotics,https://old.reddit.com/r/robotics/comments/qvxz2s/my_freeformed_solarpowered_lightseeking_analog/,1570,54,"My free-formed, solar-powered, light-seeking, analog, BEAM robot head",,
+robotics,https://old.reddit.com/r/robotics/comments/1ky7hs7/estimate_cost_for_this_robot/,1551,205,Estimate cost for this robot?,,
+robotics,https://old.reddit.com/r/robotics/comments/1ipyhgm/any_love_for_mechatronic_balancing_cubes/,1528,61,Any love for mechatronic balancing cubes?,,
+robotics,https://old.reddit.com/r/robotics/comments/13ku3vv/this_such_an_elegant_design_by_pterodynamics/,1527,60,This such an elegant design by Pterodynamics,,
+robotics,https://old.reddit.com/r/robotics/comments/j6vssy/autonomous_movement_with_visualization/,1510,45,Autonomous movement with visualization,,
+robotics,https://old.reddit.com/r/robotics/comments/ggv5yd/if_you_want_to_be_a_true_a_roboticists_ranging/,1503,134,"If you want to be a true a roboticists ranging from controls, planning, perception and autonomy, with balance of theory and application, here is your recipe for quarantine.",,https://i.redd.it/all51jebcvx41.jpg
+robotics,https://old.reddit.com/r/robotics/comments/92k0zt/when_german_engineers_are_bored_this_is_what_they/,1489,95,"When German engineers are bored, this is what they make their robots do",,
+robotics,https://old.reddit.com/r/robotics/comments/s51bkg/i_programmed_robot_to_shoot_this_music_video/,1486,47,I programmed robot to shoot this music video!,,
+robotics,https://old.reddit.com/r/robotics/comments/mkvmg2/i_made_a_robot_that_helps_me_with_my_posture/,1488,62,I made a robot that helps me with my posture,,
+robotics,https://old.reddit.com/r/robotics/comments/1nf30zq/i_built_an_open_source_dev_kit_for_ainative/,1467,50,I built an open source dev kit for AI-native robotics,"Hi, I'm Jannik - the founder of
+The Robot Learning Company
+. My startup was
+backed by Y Combinator
+as part of their Spring '25 batch.
+As the company name suggests, I spent a lot of time on robot learning (specifically imitation learning from human demonstrations via teleoperation). During this time I worked with a lot of different robots (UR, Fanuc, ARX, Trossen etc.) and realized that none of them can be effectively used for robot learning without significant changes to their hardware or software.
+This is why I built
+TRLC-DK1
+: an open source all-in-one kit that allows developers to collect data and deploy autonomous policies in under a day. Here's the
+GitHub repository
+.
+I'm looking forward to your feedback and questions!
+edit: Here's the
+part list
+. If you want to stay up-to-date on this project, please join
+this Discord server.",
+robotics,https://old.reddit.com/r/robotics/comments/1kytel8/microfactory_a_robot_to_automate_electronics/,1453,101,MicroFactory - a robot to automate electronics assembly,"Hi! We launched our robot to the audience today.
+It has an unusual box shape, which helps to constrain environment and simplify model training and save cameras and arms from bumps.
+Also we built custom arms tuned for precise operations.
+This should help us to be capable to assemble electronics and do other manual repetitive work.",
+robotics,https://old.reddit.com/r/robotics/comments/1ij0tpc/apple_gets_it_robots_are_going_to_be_everywhere/,1450,136,"Apple gets it. Robots are going to be everywhere, but they won’t look like robots. Check out their new paper ELEGNT.",,
+robotics,https://old.reddit.com/r/robotics/comments/1obgeys/robot_delivering_a_package/,1437,184,Robot delivering a package,,
+robotics,https://old.reddit.com/r/robotics/comments/1pgfvku/gitai_robots_cooperatively_assemble_a_5meter/,1418,52,"GITAI robots cooperatively assemble a 5-meter tower, a building block for future off-world habitats",,
+robotics,https://old.reddit.com/r/robotics/comments/txfwlu/im_using_the_phones_gravity_sensor_to_keep_the/,1397,50,I'm using the phone's gravity sensor to keep the body level. Having an easy access to all the phone's sensors is another benefit of using smart phones in hobby robotics.,,
+robotics,https://old.reddit.com/r/robotics/comments/1prixcd/teleoperating_via_wifi/,1404,60,Teleoperating via Wi-Fi,,
+robotics,https://old.reddit.com/r/robotics/comments/1k4ugyh/ai_bin_from_bulgaria_that_automatically_sorts/,1398,66,AI bin from Bulgaria that automatically sorts waste.,,
+robotics,https://old.reddit.com/r/robotics/comments/1pfmn8a/rivr_showing_how_lastmile_delivery_of_the_future/,1390,115,RIVR showing how last-mile delivery of the future might look like,,
+robotics,https://old.reddit.com/r/robotics/comments/1p69bkz/kyber_labs_hand_rotates_a_nut_on_a_bolt_at_super/,1383,105,"Kyber Labs hand rotates a nut on a bolt at super high speed, fully in real time with no edits","Kyber Labs on 𝕏 : ""Our hand rotates a nut on a bolt at super high speed, fully in real time with no edits. This is possible because it’s fully backdrivable and torque transparent so it adapts naturally to the nut. The result is simpler, more reliable manipulation for software and learning systems."":
+https://x.com/KyberLabsRobots/status/1993060588789137785
+Website:
+https://kyberlabs.ai",
+robotics,https://old.reddit.com/r/robotics/comments/1om7pop/we_are_so_doomed/,1379,32,We are so doomed,,
+robotics,https://old.reddit.com/r/robotics/comments/1npnp3y/zeroshot_walking_or_rolling_on_diverse_robots/,1363,83,Zero-shot walking or rolling on diverse robots (damaged or not) by SkildAI,"It's really cool. Would be so nice to get the dataset or policy on Hugging Face for all to try
+Source:
+https://www.skild.ai/blogs/omni-bodied",
+robotics,https://old.reddit.com/r/robotics/comments/1n4msa7/robotic_hands_are_evolving_faster_than_you_think/,1358,46,Robotic hands are evolving faster than you think,,
+robotics,https://old.reddit.com/r/robotics/comments/1phg15a/china_is_deploying_fully_autonomous_electric/,1351,120,China is deploying fully autonomous electric tractors to fix its rural labor crisis. The Honghu T70 runs uncrewed for 6 hours with ±2.5cm precision,"This is the
+Honghu T70
+, unveiled by Shiyan Guoke Honghu Technology. Unlike most concept machines, this one is
+production ready
+and operating in
+Hebei Province
+to address the aging rural workforce.
+The Tech Stack:
+Autonomy:
+Uses LiDAR and RTK-GNSS for path planning with
+±2.5 cm precision
+. It handles the entire cycle: ploughing, seeding, spraying and harvesting without a driver.
+Smart Sensing:
+Beyond just driving, it collects real-time data on
+soil composition, moisture, and crop health
+while running.
+Powertrain:
+Pure electric with a
+dual-motor
+setup (separating traction from the PTO/farming implements) for better load control.
+Endurance:
+Runs for
+6 hours
+on a single charge and coordinates via a 5G mesh network.
+""Agri-Robotics""
+is where we are seeing the first massive wave of real world autonomy. If a single person can manage a fleet of these from a tablet, it fundamentally changes the economics of small to medium farms.
+Source:
+Lucas",
+robotics,https://old.reddit.com/r/robotics/comments/wg5w4o/i_3d_printed_and_built_a_robot_that_makes_you/,1353,43,I 3d printed and built a robot that makes you stand on Lego (sort of),,
+robotics,https://old.reddit.com/r/robotics/comments/o125y6/achievement_unlocked_working_in_meme_industry/,1341,40,Achievement unlocked: working in meme industry,,https://i.redd.it/iaxqtfvrzl571.jpg
+robotics,https://old.reddit.com/r/robotics/comments/itkr63/robot_goes_out_alone_you_guessed_the_beginning/,1335,53,"Robot goes out alone, you guessed the beginning, but didn't guess the end",,
+robotics,https://old.reddit.com/r/robotics/comments/1hvcd4u/my_robot_doggo_got_new_tricks/,1329,108,My robot doggo got new tricks,Nice update 😎 from unitree,
+robotics,https://old.reddit.com/r/robotics/comments/1lh9pqq/i_built_tars_that_can_walk_and_roll/,1324,32,I built TARS that can walk and roll,"I finally managed to build a version of TARS that can walk and roll. To the best of my knowledge, this is the first and only re-creation of TARS that can do this.
+Follow me at the_fullstack_roboticist on Instagram to support my work.",
+robotics,https://old.reddit.com/r/robotics/comments/1oz76fn/figure_walking_on_uneven_terrain/,1301,87,Figure walking on uneven terrain.,"From Brett Adcock on 𝕏:
+https://x.com/adcock_brett/status/1990099767435915681",
+robotics,https://old.reddit.com/r/robotics/comments/1nrt6sz/concept_of_a_trashcatching_trash_cans_maybe_a/,1296,48,Concept of a trash-catching trash cans - Maybe a little fake but good effort,"HTX Studio on 𝕏:
+https://x.com/HTX_Studio/status/1948766609239408669",
+robotics,https://old.reddit.com/r/robotics/comments/o61d86/i_move_around_heaps_so_i_made_a_portable_lab_to/,1280,58,"I move around heaps, so I made a portable lab to do robotics work wherever I go! (build info in comments)",,
+robotics,https://old.reddit.com/r/robotics/comments/1jyuwlh/unitree_g1_got_its_first_job_gas_them_with_co₂/,1278,178,"Unitree G1 got it's first job 👨‍🚒🧯| Gas them, with CO₂ ☣️",,
+robotics,https://old.reddit.com/r/robotics/comments/1jakec3/any_suggestions_on_how_to_improve_stability_of_my/,1275,201,Any suggestions on how to improve stability of my bot,,
+robotics,https://old.reddit.com/r/robotics/comments/1kcn1fd/i_think_it_needs_some_tweaking/,1235,126,I think it needs some tweaking,,
+robotics,https://old.reddit.com/r/robotics/comments/1ic1hv7/imao_chinese_robots_on_china_spring_festival_gala/,1240,81,Imao Chinese Robots on China Spring Festival Gala 🤣,,
+robotics,https://old.reddit.com/r/robotics/comments/1m8ztze/my_mini_robomate_is_finally_alive/,1231,55,My mini Robomate is finally alive!,,
+robotics,https://old.reddit.com/r/robotics/comments/p6ct1f/boston_dynamics_robot_parkour_outtakes/,1232,46,Boston Dynamics Robot Parkour Outtakes,,
+robotics,https://old.reddit.com/r/robotics/comments/1ej10jj/pid_is_the_ultimate_king/,1217,39,PID is the ultimate king,"Couldn’t find the humor/meme flair, so I’m not sure if this is allowed here.",https://i.redd.it/uggis2gkofgd1.jpeg
+robotics,https://old.reddit.com/r/robotics/comments/1pn6uru/dont_throw_away_your_old_phone_this_hexapod_uses/,1221,16,"Don't throw away your old phone: This hexapod uses a smartphone as its entire ""brain"" (using the native IMU + GPU for active balancing)","I saw this project by
+Mehdi Alizadeh
+and thought it was a brilliant example of upcycling.
+Most hobby robots require buying separate expensive modules (Microcontroller, IMU, Vision Camera, WiFi Module). This project replaces all of that with a single used smartphone.
+Why it's smart engineering:
+Active Stabilization:
+As seen in the video, it uses the phone's internal IMU (Accelerometer/Gyro) to keep the chassis perfectly level, even while walking.
+Compute:
+It leverages the phone's CPU/GPU to handle the Inverse Kinematics (IK) and gait calculations.
+Vision & Comms:
+It gets high-res cameras, GPS and WiFi/Cellular connectivity for free.
+It essentially turns e-waste into a high-performance robot controller.
+Project Source:
+makeyourpet dot com
+Creator:
+Mehdi Alizadeh
+Has anyone else experimented with Android/iOS bridges for direct motor control?
+I'm curious if the USB/Bluetooth latency is low enough for dynamic gaits like trotting.",
+robotics,https://old.reddit.com/r/robotics/comments/1oksrqk/spooky_g1_for_halloween/,1216,46,Spooky G1 for Halloween 🎃,"From Logan Olson on 𝕏:
+https://x.com/jloganolson/status/1984119910151418192",
+robotics,https://old.reddit.com/r/robotics/comments/qclgif/poland_based_personal_project_update_by_automaton/,1207,51,Poland based personal project update by Automaton Robotics,,
+robotics,https://old.reddit.com/r/robotics/comments/1hrx3pq/i_made_suzumes_chair_and_programmed_it_to_walk/,1198,38,"I made Suzume's chair and programmed it to walk, kinda",,
+robotics,https://old.reddit.com/r/robotics/comments/1jj3fdv/ive_designed_a_3wheel_omnidirectional_ros2_robot/,1197,46,I've designed a 3-wheel omnidirectional ROS2 robot,,
+robotics,https://old.reddit.com/r/robotics/comments/1nyl3ia/real_life_real_steel_hosted_by_ultimate_fighting/,1192,64,Real life real steel hosted by Ultimate Fighting Bots (UCBerkeley vs Stanford) .,"Source: Ankur Deka on 𝕏:
+https://x.com/_ankurdeka_/status/1974364783517515804",
+robotics,https://old.reddit.com/r/robotics/comments/1mdqpu7/would_you_personally_buy_one_of_these_in_the/,1181,590,Would You Personally Buy One Of These In The Future?,"Genuinely curious what percentage of the world will own a robot in the future. No cleaning, chores or cooking for like what? 10-20k? Pretty sure everyone would buy one. Born too late to explore the world. Born too early to explore the stars. Born just in time to see the birth of modern robots/ AGI.",
+robotics,https://old.reddit.com/r/robotics/comments/10ggj7c/sculpting_robot/,1183,76,Sculpting Robot,,
+robotics,https://old.reddit.com/r/robotics/comments/z7rds7/3dprinted_modular_continuum_actuator/,1178,44,3D-Printed Modular Continuum Actuator,,
+robotics,https://old.reddit.com/r/robotics/comments/zmu0lq/1_print_1_motor_functional_motorized_tracks_for_a/,1167,57,1 PRINT 1 MOTOR - functional Motorized Tracks for a future Print-In-Place robot,,
+robotics,https://old.reddit.com/r/robotics/comments/i1bzww/i_made_this_robot_that_can_climb_windows_for_my/,1166,48,I made this robot that can climb windows for my virtual robotics class... I’m really proud of it because it took me a long time :P,,
+robotics,https://old.reddit.com/r/robotics/comments/1od8pjo/i_built_a_4dof_robotic_arm_from_scratch/,1159,59,I built a 4DOF Robotic Arm from scratch!,"This is one of my favorite projects — a robotic arm inspired by the KUKA LBR iisy cobot. I designed it in Autodesk Fusion, and it’s entirely 3D printed and powered by low-cost servos. I also designed a custom PCB based on an ESP32S3 for control, and developed a MATLAB GUI with a real-time 3D view of the arm synchronized with the physical robot. The interface allows trajectory creation and visualization using both forward and inverse kinematics.
+I’m really proud of how it turned out — if you’d like to build one yourself, there’s a full tutorial on my YouTube channel! 🤖",
+robotics,https://old.reddit.com/r/robotics/comments/y3om7o/roomac_is_working_this_is_a_demo_of_robot_that_i/,1161,83,Roomac is working! This is a demo of robot that I built for 550$ autonomously picking up a bottle and bringing it,,
+robotics,https://old.reddit.com/r/robotics/comments/s0a3ch/what_kind_of_actuator_is_required_to_do_this_kind/,1156,45,What kind of actuator is required to do this kind of movement?,,
+robotics,https://old.reddit.com/r/robotics/comments/1hm5k63/boston_dynamics_xmas_tricks/,1153,53,Boston Dynamics Xmas tricks,,
+robotics,https://old.reddit.com/r/robotics/comments/hvqtt3/engineers_at_caltech_have_designed_a_new/,1160,21,"Engineers at Caltech have designed a new data-driven method to control the movement of multiple robots through cluttered, unmapped spaces, so they do not run into one another.",,
+robotics,https://old.reddit.com/r/robotics/comments/1myef3s/added_controller_support/,1155,43,Added controller support,Latest iteration of my robot using pygame to send controller inputs to a udp server on the pi zero for low latency manual mode,
+robotics,https://old.reddit.com/r/robotics/comments/1oeyi6r/a_robot_dog_wearing_a_baby_dinosaur_costume_plays/,1158,49,A robot dog wearing a baby dinosaur costume plays with kids in park,,
+robotics,https://old.reddit.com/r/robotics/comments/110ig7p/tiny_wheeled_robot/,1146,77,Tiny wheeled robot,"Hello,
+Here are the first results of a little bot i’m working on for one year.
+Some specs:
+- powered by a teensy 4.0
+- 300 mah battery 
+- dc motors with encoders 
+- round LCD
+- 2 x 2 gr servo motors
+- tof sensor, amg 8833 thermal camera (motorized behind the screen), mpu6050.
+- mono speacker
+I also made a 3D rig in 3ds max to animate and synchronise all the motors/screen animations and sounds. Still a lot to do but i’m really happy to see it move!",
+robotics,https://old.reddit.com/r/robotics/comments/wcxamj/my_custom_door_lock_that_reacts_to_how_close_i_am/,1131,26,My custom door lock that reacts to how close I am,,
+robotics,https://old.reddit.com/r/robotics/comments/xrxq2i/clever_robot_to_help_with_parking_cars_in_tight/,1105,30,Clever robot to help with parking cars in tight spaces,,
+robotics,https://old.reddit.com/r/robotics/comments/rkpzlh/half_way_through_grad_school_got_her_walking_and/,1105,35,"Half way through grad school, got her walking and sensing this semester",,
+robotics,https://old.reddit.com/r/robotics/comments/1hpmyt8/new_video_of_clone_torso_demonstrating_biomimicry/,1090,45,"New video of Clone Torso, demonstrating biomimicry of complex, natural motions of human shoulders.",,
+robotics,https://old.reddit.com/r/robotics/comments/1js9l22/for_everyone_before_saying_engineai_was_cgi_heres/,1085,232,"For everyone before saying EngineAI was CGI, here's streamer IShowSpeed encountering EngineAI's robots in Shenzhen, China (includes dancing and a front flip)",,
+robotics,https://old.reddit.com/r/robotics/comments/17znv7w/my_backpack_robot_shoots_nerf_bullets_just_not/,711,34,"My backpack robot shoots nerf bullets, just not very well","Hardware is thrown together, spent waaaay too much time 3D printing parts, discovered my servos are weak, software is convoluted and bad, and I barely have usable control.
+But it works.",
