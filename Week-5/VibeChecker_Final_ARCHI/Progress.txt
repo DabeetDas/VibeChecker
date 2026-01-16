@@ -1,0 +1,62 @@
+I initially started with total of 8 extra features + the one hot encoded column of subreddits
+Shape of image input matrix - (1773, 955)
+Shape of text input matrix - (3450, 955)
+
+1. R2 (score): 0.8135791670162863
+   R2 (num_coments): 0.28493274533608615
+
+Now i am planning to add more features to improve score.
+
+2. ADDED TWO NEW FEATURES - 
+   avg_word_length_title and avg_word_length_body
+
+   R2 (score): 0.8135560578194287
+   R2 (num_coments): 0.28894868374219307
+
+It changed almost negligible...
+
+3. ADDED ONE MORE FEATURE - 
+   Is question personal???
+
+   R2 (score): 0.8135560578194287
+   R2 (num_coments): 0.28894868374219307
+
+But there is no change at all...  "CONCLUSION : ADDING A FEW EXTRA FEATURES MAKES NEGLIGIBLE CHANGE TO SCORE BEACUSE THERE ARE SO MANY FEATURES TAHT ONE-TWO NEW FEATURES ARE JUST IGNORED BY THE MODEL."
+So i will either try hyperparameter tuning or make some changes to the model architecture now.
+
+THE ABOVE THREE RESULTS WERE BY USING THEVOTING REGRESSOR 
+
+
+NOW I SHIFTED TO STACKING REGRESSOR 
+
+
+4. CHANGED SOME HYPER-PARAMETERS IN THE STACKING REGRESSOR MODEL
+   a. changed the learning rate and so the number of trees (max_iter and n_estimator) of HGB and XGB respectively.
+      (decreses the learning rate and inc the no. of trees)
+
+   R2 (score): 0.9179
+   R2 (num_coments): 0.3668
+
+   The resulst imporve but the training was very slow. It took around 25 - 30 minutes each for the images and text datasets.
+
+NOW I WILL CHECK RESULTS BY CHANGING HYPERPARAMETERS IN VOTING REGRESSOR
+5.  a. I have changes the learning rate of both LGB and HGB from 0.03 to 0.01
+    b. And increases the number of trees from 1000 to 3000.
+    
+     R2 (score): 0.8359
+     R2 (num_coments): 0.3405
+
+6. ADDED THE LOG TRANSFORM PART TO THE STACKING REGRESSOR
+   R2 (score): 0.8909
+   R2 (num_coments): 0.4356     
+   Comments improved but score decreased.
+
+7. a. Changing cv from 3 to 5 in stacking regressor.
+   b. Lowering the learning rate from 0.01 to 0.005 and therefore increasing number of trees. 
+      
+   Caused both scores to decrease so i changed it back.  
+
+
+   FINALLY T AM GOING WITH SCORE IN POINT 6 
+   R2 (score): 0.8909
+   R2 (num_coments): 0.4356
